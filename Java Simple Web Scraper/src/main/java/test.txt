@@ -1,0 +1,1325 @@
+10000 AKTIVLAR
+10100 Kassadagi naqd pul va boshqa to‘lov hujjatlari
+10101 Aylanma kassadagi naqd pullar
+10103 Pul almashtirish shoxobchalaridagi naqd pullar
+10107 Bankomatlar va boshqa o‘z-o‘ziga xizmat ko‘rsatish uskunalaridagi naqd pullar
+10109 Yo‘ldagi naqd pullar va boshqa to‘lov hujjatlari
+10111 Amaliyot kassalaridagi naqd pullar
+10113 Pensiyalar, ijtimoiy nafaqalar, kompensatsiyalar va boshqa to‘lovlarni berish bo‘yicha maxsus kassalardagi naqd pullar
+Oldingi tahrirga qarang.
+10198 “Eskirgan” toifadagi naqd pullar
+(10198-pozitsiya O‘zbekiston Respublikasi markaziy banki Boshqaruvining 2024-yil 4-yanvardagi 42/20-sonli qarori (ro‘yxat raqami 3336-2, 05.02.2024-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 06.02.2024-y., 10/24/3336-2/0100-son)
+10300 Bankning Markaziy bankdagi hisobvaraqlari
+10301 Markaziy bankdagi vakillik hisobvarag‘idan olinishi lozim bo‘lgan mablag‘lar — Nostro
+10305 Markaziy bankning vakillik hisobvarag‘idan olinishi lozim bo‘lgan mablag‘lar — Vostro, overdraft
+10307 Markaziy bankdan olinishi lozim bo‘lgan mablag‘lar — Naqd pullar
+10309 Markaziy bankdagi majburiy zaxira hisobvarag‘idan olinishi lozim bo‘lgan mablag‘lar
+10311 Markaziy bankdan olinishi lozim bo‘lgan mablag‘lar — Topshirilgan naqd pullar
+10313 Markaziy bankdan olinishi lozim bo‘lgan mablag‘lar — Tezkor to‘lovlar tizimi
+10315 Markaziy bankdan olinishi lozim bo‘lgan mablag‘lar— Markaziy bank kliring tizimi
+10321 Markaziy bankdan olinishi lozim bo‘lgan mablag‘lar — Overnayt depozitlar
+10331 Markaziy bankdan olinishi lozim bo‘lgan mablag‘lar — 1 yilgacha bo‘lgan depozitlar
+10397 Markaziy bankdan olinishi lozim bo‘lgan mablag‘lar — boshqa depozitlar
+10500 Boshqa banklar va moliyaviy tashkilotlardan olinishi lozim bo‘lgan mablag‘lar
+10501 Boshqa banklardagi vakillik hisobvaraqlaridan olinishi lozim bo‘lgan mablag‘lar — Nostro
+10505 Boshqa banklarning vakillik hisobvaraqlaridan olinishi lozim bo‘lgan mablag‘lar — Vostro, overdraft
+10507 Boshqa banklardan vakillik hisobvaraqlaridan olinishi lozim bo‘lgan mablag‘lar — Naqd pullar
+10511 Jismoniy shaxslarning bank kartalaridan berilgan naqd pul mablag‘lari bo‘yicha boshqa banklardan olinishi lozim bo‘lgan mablag‘lar
+10513 Bank kartalaridan amalga oshirilgan to‘lovlar bo‘yicha boshqa banklardan olinishi lozim bo‘lgan mablag‘lar
+10521 Boshqa banklardagi hisobvaraqlar — Overnayt depozitlar
+10531 Boshqa banklardagi hisobvaraqlar — 1 yilgacha bo‘lgan depozitlar
+10541 Boshqa banklardagi hisobvaraqlar — 1 yildan ortiq muddatga depozitlar
+10551 Moliyaviy tashkilotlardagi hisobvaraqlar
+10599 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Boshqa banklar yoki moliyaviy tashkilotlardan olinishi lozim bo‘lgan mablag‘lar (kontr-aktiv)
+10700 Foyda yoki zarar orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlar
+10701 Davlat xazina veksellari
+10705 Davlat obligatsiyalari
+10709 Markaziy bankning obligatsiyalari va boshqa qarz qimmatli qog‘ozlari
+10711 Korxonalarning qarz qimmatli qog‘ozlari
+10715 Yevroobligatsiyalar
+10719 Korxonalarning ulushli qimmatli qog‘ozlari
+10723 Tijorat banklarining obligatsiyalari va boshqa qarz qimmatli qog‘ozlari
+10725 Tijorat banklarining ulushli qimmatli qog‘ozlari
+10779 Boshqa qimmatli qog‘ozlar
+10791 Foyda yoki zarar orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlar bo‘yicha diskont (kontr-aktiv)
+10793 Foyda yoki zarar orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlar bo‘yicha mukofot
+Oldingi tahrirga qarang.
+10795 Foyda yoki zarar orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlari haqqoniy qiymatining o‘zgarishi (aktiv-passiv)
+(10795-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+10799 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Foyda yoki zarar orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlar (kontr-aktiv)
+10800 Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlarga qilingan investitsiyalar
+10801 Davlat xazina veksellari
+10805 Davlat obligatsiyalari
+10809 Markaziy bankning obligatsiyalari va boshqa qarz qimmatli qog‘ozlari
+10813 Korxonalarning qarz qimmatli qog‘ozlari
+10817 Yevroobligatsiyalar
+10821 Korxonalarning ulushli qimmatli qog‘ozlari
+10823 Tijorat banklarining obligatsiyalari va boshqa qarz qimmatli qog‘ozlari
+10825 Tijorat banklarining ulushli qimmatli qog‘ozlari
+10879 Boshqa qimmatli qog‘ozlar
+10889 Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qarz qimmatli qog‘ozlarni xarid qilish bo‘yicha xarajatlar
+10891 Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlarga qilingan investitsiyalar bo‘yicha diskont (kontr-aktiv)
+10893 Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlarga qilingan investitsiyalar bo‘yicha mukofot
+Oldingi tahrirga qarang.
+10895 Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlarga qilingan investitsiyalar haqiqiy qiymatining o‘zgarishi (aktiv-passiv)
+(10895-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+10899 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlarga qilingan investitsiyalar (kontr-aktiv)
+10900 Oldi-sotdiga mo‘ljallangan qimmatbaho metallar, toshlar va tangalar
+10901 Qimmatbaho metallar
+10905 Qimmatbaho toshlar
+10909 Qimmatbaho tangalar
+10999 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Oldi-sotdiga mo‘ljallangan qimmatbaho metallar, toshlar va tangalar (kontr-aktiv)
+11100 Sotib olingan debitorlik qarzlari — Faktoring
+11101 Sotib olingan debitorlik qarzlari — Faktoring
+11103 Muddati o‘tgan sotib olingan debitorlik qarzlari — Faktoring
+11105 Sud jarayonidagi sotib olingan debitorlik qarzlari — Faktoring
+11195 Sotib olingan debitorlik qarzlari bo‘yicha diskont — Faktoring (kontr-aktiv)
+11199 Sotib olingan debitorlik qarzlari bo‘yicha ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Faktoring (kontr-aktiv)
+11500 Mijozlarning akkreditiv va/yoki trast hujjatlari bilan kafolatlangan trattalari bo‘yicha majburiyatlari
+11501 Mijozlarning majburiyatlari — Import bilan bog‘liq veksellar
+11503 Mijozlarning majburiyatlari — Akkreditiv va kafolatlar
+11505 Mijozlarning majburiyatlari — Trast hujjatlari asosidagi import bilan bog‘liq veksellar
+11509 Mijozlarning majburiyatlari — Trast hujjatlari asosidagi mahalliy veksellar
+11511 Muddati o‘tgan import bilan bog‘liq veksellar va akseptlar
+11515 Muddati o‘tgan mahalliy veksellar va akseptlar
+11519 Sud jarayonidagi import bilan bog‘liq veksellar
+11521 Sud jarayonidagi mahalliy veksellar
+11599 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Import bilan bog‘liq va mahalliy veksellar (kontr-aktiv)
+11700 Bankning to‘lanmagan akseptlari bo‘yicha mijozlarning majburiyatlari
+11701 Mijozlarning akseptlar bo‘yicha majburiyatlari — Mahalliy
+11705 Mijozlarning akseptlar bo‘yicha majburiyatlari — Xorijiy
+11800 REPO bitimlari bo‘yicha sotib olingan qimmatli qog‘ozlar
+11801 REPO bitimlari bo‘yicha Markaziy bankdan sotib olingan qimmatli qog‘ozlar
+11803 REPO bitimlari bo‘yicha boshqa banklardan sotib olingan qimmatli qog‘ozlar
+11805 REPO bitimlari bo‘yicha hukumatdan sotib olingan qimmatli qog‘ozlar
+11807 REPO bitimlari bo‘yicha jismoniy shaxslardan sotib olingan qimmatli qog‘ozlar
+11809 REPO bitimlari bo‘yicha yakka tartibdagi tadbirkorlardan sotib olingan qimmatli qog‘ozlar
+11811 REPO bitimlari bo‘yicha davlat korxonalari, tashkilotlari va muassasalaridan sotib olingan qimmatli qog‘ozlar
+Oldingi tahrirga qarang.
+11813 REPO bitimlari bo‘yicha chet el investitsiyalari ishtirokidagi korxonalardan sotib olingan qimmatli qog‘ozlar
+(11813-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+11815 REPO bitimlari bo‘yicha xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlardan sotib olingan qimmatli qog‘ozlar
+11897 REPO bitimlari bo‘yicha boshqa qarzdorlardan sotib olingan qimmatli qog‘ozlar
+11899 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — REPO bitimlari bo‘yicha sotib olingan qimmatli qog‘ozlar (kontr-aktiv)
+11900 Markaziy bankka berilgan qisqa muddatli kreditlar
+11901 Markaziy bankka berilgan qisqa muddatli kreditlar
+12100 Boshqa banklarga berilgan qisqa muddatli kreditlar
+12101 Boshqa banklarga berilgan qisqa muddatli kreditlar
+12105 Boshqa banklarga berilgan muddati o‘tgan kreditlar
+12109 Boshqa banklarga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar
+12199 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Boshqa banklarga berilgan qisqa muddatli kreditlar” (kontr-aktiv)
+12300 Hukumatga berilgan qisqa muddatli kreditlar
+12301 Hukumatga berilgan qisqa muddatli kreditlar
+12305 Hukumatga berilgan muddati o‘tgan kreditlar
+12309 Hukumatga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar
+12399 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Hukumatga berilgan qisqa muddatli kreditlar (kontr-aktiv)
+12400 Budjet tashkilotlariga berilgan qisqa muddatli kreditlar
+12401 Budjet tashkilotlariga berilgan qisqa muddatli kreditlar
+12405 Budjet tashkilotlariga berilgan muddati o‘tgan kreditlar
+12409 Budjet tashkilotlariga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar
+12499 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Budjet tashkilotlariga berilgan qisqa muddatli kreditlar
+12500 Jismoniy shaxslarga berilgan qisqa muddatli kreditlar
+12501 Jismoniy shaxslarga berilgan qisqa muddatli kreditlar
+12502 Aholining kam ta’minlangan qatlamlariga berilgan qisqa muddatli kreditlar
+12503 Jismoniy shaxslarga bank kartalari orqali berilgan qisqa muddatli kreditlar
+12504 Jismoniy shaxslarga davlat dasturlari bo‘yicha uy-joy sotib olish uchun berilgan qisqa muddatli ipoteka kreditlari
+12505 Jismoniy shaxslarga berilgan muddati o‘tgan kreditlar
+12509 Jismoniy shaxslarga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar
+12521 Jismoniy shaxslarga maxsus dasturlar bo‘yicha berilgan qisqa muddatli kreditlar
+Oldingi tahrirga qarang.
+12531 O‘zini o‘zi band qilgan shaxslarga berilgan qisqa muddatli kreditlar
+12541 O‘zini o‘zi band qilgan shaxslarga maxsus dasturlar bo‘yicha berilgan qisqa muddatli kreditlar
+(2-bob O‘zbekiston Respublikasi markaziy banki Boshqaruvining 2024-yil 4-yanvardagi 42/20-sonli qaroriga (ro‘yxat raqami 3336-2, 05.02.2024-y.) asosan 12531 va 12541-pozitsiyalar bilan to‘ldirilgan — Qonunchilik ma’lumotlari milliy bazasi, 06.02.2024-y., 10/24/3336-2/0100-son)
+12599 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Jismoniy shaxslarga berilgan qisqa muddatli kreditlar (kontr-aktiv)
+12600 Yakka tartibdagi tadbirkorlarga berilgan qisqa muddatli kreditlar
+12601 Yakka tartibdagi tadbirkorlarga berilgan qisqa muddatli kreditlar
+12605 Yakka tartibdagi tadbirkorlarga berilgan muddati o‘tgan kreditlar
+12609 Yakka tartibdagi tadbirkorlarga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar
+12621 Yakka tartibdagi tadbirkorlarga maxsus dasturlar bo‘yicha berilgan qisqa muddatli kreditlar
+12699 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Yakka tartibdagi tadbirkorlarga berilgan qisqa muddatli kreditlar (kontr-aktiv)
+12700 Davlat korxonalari, tashkilotlari va muassasalariga berilgan qisqa muddatli kreditlar
+12701 Davlat korxonalari, tashkilotlari va muassasalariga berilgan qisqa muddatli kreditlar
+12705 Davlat korxonalari, tashkilotlari va muassasalariga berilgan muddati o‘tgan kreditlar
+12709 Davlat korxonalari, tashkilotlari va muassasalariga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar
+12799 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Davlat korxonalari, tashkilotlari va muassasalariga berilgan qisqa muddatli kreditlar (kontr-aktiv)
+12800 Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasi ko‘magida berilgan qisqa muddatli kreditlar
+12801 Jismoniy shaxslarga Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasi ko‘magida berilgan qisqa muddatli kreditlar
+12802 Tadbirkorlik subyektlari — yuridik shaxs tashkil etmagan yakka tartibdagi tadbirkorlarga Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasi ko‘magida berilgan qisqa muddatli kreditlar
+12803 Tadbirkorlik subyektlari — yuridik shaxslarga Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasi ko‘magida berilgan qisqa muddatli kreditlar
+12805 Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasi ko‘magida berilgan muddati o‘tgan kreditlar
+12809 Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasi ko‘magida berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar
+12899 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasi ko‘magida berilgan qisqa muddatli kreditlar bo‘yicha (kontr-aktiv)
+Oldingi tahrirga qarang.
+12900 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan qisqa muddatli kreditlar
+(12900-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+12901 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan qisqa muddatli kreditlar
+(12901-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+12905 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan muddati o‘tgan kreditlar
+(12905-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+12909 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar
+(12909-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+12921 Chet el investitsiyalari ishtirokidagi korxonalarga davlat dasturlari bo‘yicha berilgan qisqa muddatli kreditlar
+(12921-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+12999 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan qisqa muddatli kreditlar bo‘yicha ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi (kontr-aktiv)
+(12999-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+13000 Nodavlat notijorat tashkilotlariga berilgan qisqa muddatli kreditlar
+13001 Nodavlat notijorat tashkilotlariga berilgan qisqa muddatli kreditlar
+13005 Nodavlat notijorat tashkilotlariga berilgan muddati o‘tgan kreditlar
+13009 Nodavlat notijorat tashkilotlariga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar
+13099 Nodavlat notijorat tashkilotlariga berilgan qisqa muddatli kreditlar bo‘yicha ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi (kontr-aktiv)
+13100 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan qisqa muddatli kreditlar
+13101 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan qisqa muddatli kreditlar
+13105 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan muddati o‘tgan kreditlar
+13109 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar
+13121 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga maxsus dasturlar bo‘yicha berilgan qisqa muddatli kreditlar
+13199 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan qisqa muddatli kreditlar (kontr-aktiv)
+13200 Bank bo‘lmagan moliyaviy muassasalarga berilgan qisqa muddatli kreditlar
+13201 Bank bo‘lmagan moliyaviy muassasalarga berilgan qisqa muddatli kreditlar
+13205 Bank bo‘lmagan moliyaviy muassasalarga berilgan muddati o‘tgan kreditlar
+13209 Bank bo‘lmagan moliyaviy muassasalarga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar
+13299 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Bank bo‘lmagan moliyaviy muassasalarga berilgan qisqa muddatli kreditlar” (kontr-aktiv)
+13300 Davlat ehtiyojlari uchun xarid qilinadigan qishloq xo‘jaligi mahsulotlarini yetishtirish uchun berilgan qisqa muddatli kreditlar
+13301 Davlat ehtiyojlari uchun xarid qilinadigan g‘allani yetishtirish uchun berilgan qisqa muddatli kreditlar
+13305 Davlat ehtiyojlari uchun xarid qilinadigan qishloq xo‘jaligi mahsulotlarini yetishtirish uchun berilgan muddati o‘tgan kreditlar
+13309 Davlat ehtiyojlari uchun xarid qilinadigan g‘allani yetishtirish uchun berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar
+13399 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Davlat ehtiyojlari uchun xarid qilinadigan qishloq xo‘jaligi mahsulotlarini yetishtirish uchun berilgan qisqa muddatli kreditlar (kontr-aktiv)
+14300 Davlat ehtiyojlari uchun xarid qilinadigan qishloq xo‘jaligi mahsulotlarini yetishtirish uchun berilgan uzoq muddatli kreditlar
+14301 Davlat ehtiyojlari uchun xarid qilinadigan paxta xomashyosini yetishtirish uchun berilgan uzoq muddatli kreditlar
+14305 Davlat ehtiyojlari uchun xarid qilinadigan paxta xomashyosini yetishtirish uchun berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar
+14399 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Davlat ehtiyojlari uchun xarid qilinadigan qishloq xo‘jaligi mahsulotlarini yetishtirish uchun berilgan uzoq muddatli kreditlar (kontr-aktiv)
+14400 Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasi ko‘magida berilgan uzoq muddatli kreditlar
+14401 Jismoniy shaxslarga Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasi ko‘magida berilgan uzoq muddatli kreditlar
+14402 Tadbirkorlik subyektlari — yuridik shaxs tashkil etmagan yakka tartibdagi tadbirkorlarga Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasi ko‘magida berilgan uzoq muddatli kreditlar
+14403 Tadbirkorlik subyektlari — yuridik shaxslarga Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasi ko‘magida berilgan uzoq muddatli kreditlar
+14405 Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasi ko‘magida berilgan qayta ko‘rib chiqilgan uzoq muddatli kreditlar
+14499 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasi ko‘magida berilgan uzoq muddatli kreditlar (kontr-aktiv)
+14500 Boshqa banklarga berilgan uzoq muddatli kreditlar
+14501 Boshqa banklarga berilgan uzoq muddatli kreditlar
+14505 Boshqa banklarga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar
+14599 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Boshqa banklarga berilgan uzoq muddatli kreditlar (kontr-aktiv)
+14700 Hukumatga berilgan uzoq muddatli kreditlar
+14701 Hukumatga berilgan uzoq muddatli kreditlar
+14705 Hukumatga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar
+14799 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Hukumatga berilgan uzoq muddatli kreditlar (kontr-aktiv)
+14800 Budjet tashkilotlariga berilgan uzoq muddatli kreditlar
+14801 Budjet tashkilotlariga berilgan uzoq muddatli kreditlar
+14809 Budjet tashkilotlariga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar
+14899 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Budjet tashkilotlariga berilgan uzoq muddatli kreditlar
+14900 Jismoniy shaxslarga berilgan uzoq muddatli kreditlar
+14901 Jismoniy shaxslarga berilgan uzoq muddatli kreditlar
+14902 Aholining kam ta’minlangan qatlamlariga berilgan uzoq muddatli kreditlar
+14903 Jismoniy shaxslarga davlat dasturlari bo‘yicha uy-joy sotib olish uchun berilgan uzoq muddatli ipoteka kreditlari
+14905 Jismoniy shaxslarga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar
+14913 Jismoniy shaxslarga bank kartalari orqali berilgan uzoq muddatli kreditlar
+14921 Jismoniy shaxslarga maxsus dasturlar bo‘yicha berilgan uzoq muddatli kreditlar
+Oldingi tahrirga qarang.
+14931 O‘zini o‘zi band qilgan shaxslarga berilgan uzoq muddatli kreditlar
+14941 O‘zini o‘zi band qilgan shaxslarga maxsus dasturlar bo‘yicha berilgan uzoq muddatli kreditlar
+(2-bob O‘zbekiston Respublikasi markaziy banki Boshqaruvining 2024-yil 4-yanvardagi 42/20-sonli qaroriga (ro‘yxat raqami 3336-2, 05.02.2024-y.) asosan 14931 va 14941-pozitsiyalar bilan to‘ldirilgan — Qonunchilik ma’lumotlari milliy bazasi, 06.02.2024-y., 10/24/3336-2/0100-son)
+14999 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Jismoniy shaxslarga berilgan uzoq muddatli kreditlar (kontr-aktiv)
+15000 Yakka tartibdagi tadbirkorlarga berilgan uzoq muddatli kreditlar
+15001 Yakka tartibdagi tadbirkorlarga berilgan uzoq muddatli kreditlar
+15005 Yakka tartibdagi tadbirkorlarga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar
+15021 Yakka tartibdagi tadbirkorlarga maxsus dasturlar bo‘yicha berilgan uzoq muddatli kreditlar
+15099 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Yakka tartibdagi tadbirkorlarga berilgan uzoq muddatli kreditlar (kontr-aktiv)
+15100 Davlat korxonalari, tashkilotlari va muassasalariga berilgan uzoq muddatli kreditlar
+15101 Davlat korxonalari, tashkilotlari va muassasalariga berilgan uzoq muddatli kreditlar
+15105 Davlat korxonalari, tashkilotlari va muassasalariga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar
+15199 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Davlat korxonalari, tashkilotlari va muassasalariga berilgan uzoq muddatli kreditlar (kontr-aktiv)
+15200 Nodavlat notijorat tashkilotlariga berilgan uzoq muddatli kreditlar
+15201 Nodavlat notijorat tashkilotlariga berilgan uzoq muddatli kreditlar
+15205 Nodavlat notijorat tashkilotlariga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar
+15299 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Nodavlat notijorat tashkilotlariga berilgan uzoq muddatli kreditlar (kontr-aktiv)
+Oldingi tahrirga qarang.
+15300 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan uzoq muddatli kreditlar
+(15300-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+15301 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan uzoq muddatli kreditlar
+(15301-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+15305 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar
+(15305-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+15321 Chet el investitsiyalari ishtirokidagi korxonalarga davlat dasturlari bo‘yicha berilgan uzoq muddatli kreditlar
+(15321-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+15399 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Chet el investitsiyalari ishtirokidagi korxonalarga berilgan uzoq muddatli kreditlar (kontr-aktiv)
+(15399-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+15400 Bank bo‘lmagan moliyaviy muassasalarga berilgan uzoq muddatli kreditlar
+15401 Bank bo‘lmagan moliyaviy muassasalarga berilgan uzoq muddatli kreditlar
+15405 Bank bo‘lmagan moliyaviy muassasalarga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar
+15499 Bank bo‘lmagan moliyaviy muassasalarga berilgan uzoq muddatli kreditlar bo‘yicha ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi (kontr-aktiv)
+15500 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan uzoq muddatli kreditlar
+15501 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan uzoq muddatli kreditlar
+15505 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar
+15521 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga maxsus dasturlar bo‘yicha berilgan uzoq muddatli kreditlar
+15599 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan uzoq muddatli kreditlar (kontr-aktiv)
+15600 Lizing (moliyaviy ijara)
+15601 Boshqa banklarga berilgan lizing
+15605 Yakka tartibdagi tadbirkorlarga berilgan lizing
+15607 Davlat korxonalari, tashkilotlari va muassasalariga berilgan lizing
+Oldingi tahrirga qarang.
+15609 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan lizing
+(15609-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+15611 Nodavlat notijorat tashkilotlariga berilgan lizing
+15613 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan lizing
+15615 Bank bo‘lmagan moliyaviy muassasalarga berilgan lizing
+15617 Muddati o‘tgan lizing
+15619 Shartlari qayta ko‘rib chiqilgan lizing
+15699 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Lizing
+15700 Sud yoki ijro ishi yuritish jarayonidagi kreditlar va lizing
+15701 Sud yoki ijro ishi yuritish jarayonidagi yuridik shaxslarga berilgan kreditlar
+15703 Sud yoki ijro ishi yuritish jarayonidagi jismoniy shaxslarga berilgan kreditlar
+15705 Sud yoki ijro ishi yuritish jarayonidagi lizing
+15707 Sud yoki ijro ishi yuritish jarayonidagi yakka tartibdagi tadbirkorlarga berilgan kreditlar
+15799 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Sud yoki ijro ishi yuritish jarayonidagi kreditlar va lizing (kontr-aktiv)
+15800 Qaram xo‘jalik jamiyatlariga, birgalikdagi korxonalarga va shu’ba xo‘jalik jamiyatlariga qilingan investitsiyalar
+15801 Qaram xo‘jalik jamiyatlariga qilingan investitsiyalar — Moliyaviy institutlar
+15805 Qaram xo‘jalik jamiyatlariga qilingan investitsiyalar — Boshqalar
+15809 Birgalikdagi korxonalarga qilingan investitsiya — Moliyaviy institutlar
+15813 Birgalikdagi korxonalarga qilingan investitsiyalar — Boshqalar
+15817 Shu’ba xo‘jalik jamiyatlariga qilingan investitsiyalar — Moliyaviy institutlar
+15821 Shu’ba xo‘jalik jamiyatlariga qilingan investitsiyalar — Boshqalar
+15827 Tijorat banklari tomonidan strategik investorlarga korxonalarni bo‘lib-bo‘lib to‘lash sharti bilan sotish
+15899 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Qaram xo‘jalik jamiyatlariga, birgalikdagi korxonalarga va shu’ba xo‘jalik jamiyatlariga qilingan investitsiyalar (kontr-aktiv)
+15900 Amortizatsiyalangan qiymati bo‘yicha baholanadigan qarz qimmatli qog‘ozlarga qilingan investitsiyalar
+15901 Davlat xazina veksellari
+15905 Davlat obligatsiyalari
+15909 Markaziy bankning obligatsiya va boshqa qarz qimmatli qog‘ozlari
+15911 Yevroobligatsiyalar
+15913 Korxonalarning qarz qimmatli qog‘ozlari
+15923 Tijorat banklarining obligatsiyalari va boshqa qarz qimmatli qog‘ozlari
+15979 Boshqa qarz qimmatli qog‘ozlar
+15989 Amortizatsiyalangan qiymati bo‘yicha baholanadigan qarz qimmatli qog‘ozlarni xarid qilish bo‘yicha xarajatlar
+15991 Amortizatsiyalangan qiymati bo‘yicha baholanadigan qarz qimmatli qog‘ozlar bo‘yicha diskont (kontr-aktiv)
+15993 Amortizatsiyalangan qiymati bo‘yicha baholanadigan qarz qimmatli qog‘ozlar bo‘yicha mukofot
+15999 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Amortizatsiyalangan qiymati bo‘yicha baholanadigan qarz qimmatli qog‘ozlarga qilingan investitsiyalar (kontr-aktiv)
+16100 Bosh ofis/filiallardan olinadigan mablag‘lar
+16101 Bosh ofis/filiallardan olinadigan mablag‘lar — Naqd pullar
+16102 Bosh ofis/filiallardan olinadigan mablag‘lar — Naqdsiz mablag‘lar
+16103 Bosh ofis/filiallardan filiallar va banklararo hisob-kitoblar bo‘yicha olinadigan mablag‘lar
+16104 Bosh ofis/filiallardan olinadigan mablag‘lar — Tovar-moddiy qimmatliklar va xizmatlar
+16105 Chet eldagi Bosh ofis/filiallardan olinadigan mablag‘lar
+16107 Bosh ofis/filiallardan filiallar va banklararo hisob-kitoblar bo‘yicha olinadigan mablag‘lar — Overdraft
+16109 Bosh ofis/filiallardan olinadigan mablag‘lar — Float
+16111 Bosh ofis/filialdan jismoniy shaxslarning bank kartalaridan berilgan naqd pul mablag‘lari bo‘yicha olinishi lozim bo‘lgan mablag‘lar
+16113 Bosh ofis/filialdan bank kartalaridan amalga oshirilgan to‘lovlar bo‘yicha olinishi lozim bo‘lgan mablag‘lar
+16115 Bosh bank/filiallardan olinadigan mablag‘lar — Davlat dasturlari bo‘yicha resurslar
+16123 Bosh ofis/filiallardan Tezkor to‘lovlar tizimida hisob-kitoblar bo‘yicha olinadigan mablag‘lar
+16125 Bosh ofis/filiallardan Markaziy bankning Kliring tizimi hisob-kitoblari bo‘yicha olinadigan mablag‘lar
+16300 Olinishi lozim bo‘lgan hisoblangan foizlar
+16301 Markaziy bankdan olinishi lozim bo‘lgan hisoblangan foizlar
+16303 Boshqa banklardan olinishi lozim bo‘lgan hisoblangan foizlar
+16304 Bosh ofis/filialdan olinishi lozim bo‘lgan hisoblangan foizlar
+16305 Foyda yoki zarar orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlari bo‘yicha olinishi lozim bo‘lgan hisoblangan foizlar
+16307 Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlarga qilingan investitsiyalar bo‘yicha olinishi lozim bo‘lgan hisoblangan foizlar
+16309 Kreditlar bo‘yicha olinishi lozim bo‘lgan hisoblangan foizlar
+16311 Amortizatsiyalangan qiymati bo‘yicha baholanadigan qarz qimmatli qog‘ozlarga qilingan investitsiyalar bo‘yicha olinishi lozim bo‘lgan hisoblangan foizlar
+16315 Sotib olingan veksellar bo‘yicha olinishi lozim bo‘lgan hisoblangan foizlar
+16319 Mijozlarning akkreditiv va/yoki trast hujjatlari bilan kafolatlangan tratta majburiyatlari bo‘yicha olinishi lozim bo‘lgan hisoblangan foizlar
+16321 Bankning to‘lanmagan akseptlari bo‘yicha mijoz majburiyatlari yuzasidan olinishi lozim bo‘lgan hisoblangan foizlar
+16323 Lizing (moliyaviy ijara) bo‘yicha olinishi lozim bo‘lgan hisoblangan foizlar
+Oldingi tahrirga qarang.
+16325 Davlat maqsadli jamg‘armalari subsidiyalari hisobidan qoplanadigan, olinishi lozim bo‘lgan hisoblangan foizlar
+(16325-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+16327 Davlat budjeti subsidiyalari hisobidan qoplanadigan, olinishi lozim bo‘lgan hisoblangan foizlar
+16377 Shartnoma bo‘yicha hisoblab yozilgan, biroq muddatida to‘lanmagan olinishi lozim bo‘lgan foizlar
+16379 Shartnomaga ko‘ra hisoblab yozilgan, biroq to‘lov muddati uzaytirilgan foizlar
+Oldingi tahrirga qarang.
+16381 Boshqa aktivlar bo‘yicha hisoblangan, lekin muddatida to‘lanmagan foizlar
+(2-bob O‘zbekiston Respublikasi markaziy banki Boshqaruvining 2024-yil 4-yanvardagi 42/20-sonli qaroriga (ro‘yxat raqami 3336-2, 05.02.2024-y.) asosan 16381-pozitsiya bilan to‘ldirilgan — Qonunchilik ma’lumotlari milliy bazasi, 06.02.2024-y., 10/24/3336-2/0100-son)
+16397 Mijozlarning boshqa majburiyatlari bo‘yicha olinishi lozim bo‘lgan hisoblangan foizlar
+Oldingi tahrirga qarang.
+16398 Ko‘rilishi mumkin bo‘lgan ehtimoliy zararlarni qoplash zaxirasi — boshqa aktivlar bo‘yicha hisoblangan foizlar (kontr-aktiv)
+(2-bob O‘zbekiston Respublikasi markaziy banki Boshqaruvining 2024-yil 4-yanvardagi 42/20-sonli qaroriga (ro‘yxat raqami 3336-2, 05.02.2024-y.) asosan 16398-pozitsiya bilan to‘ldirilgan — Qonunchilik ma’lumotlari milliy bazasi, 06.02.2024-y., 10/24/3336-2/0100-son)
+Oldingi tahrirga qarang.
+16399 Ko‘rilishi mumkin bo‘lgan ehtimoliy zararlarni qoplash zaxirasi — kredit va lizinglar bo‘yicha hisoblangan foizlar (kontr-aktiv)
+(16399-pozitsiya O‘zbekiston Respublikasi markaziy banki Boshqaruvining 2024-yil 4-yanvardagi 42/20-sonli qarori (ro‘yxat raqami 3336-2, 05.02.2024-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 06.02.2024-y., 10/24/3336-2/0100-son)
+16400 Olinishi lozim bo‘lgan hisoblangan foizsiz daromadlar
+16401 Olinishi lozim bo‘lgan hisoblangan vositachilik haqi va ko‘rsatilgan xizmatlar uchun to‘lovlar
+16405 Olinishi lozim bo‘lgan hisoblangan jarima va penyalar
+16409 Operatsion ijara bo‘yicha olinishi lozim bo‘lgan hisoblangan daromad
+16413 Olinishi lozim bo‘lgan hisoblangan boshqa foizsiz daromadlar
+Oldingi tahrirga qarang.
+16498 Ko‘rilishi mumkin bo‘lgan ehtimoliy zararlarni qoplash zaxirasi — boshqa aktivlar bo‘yicha hisoblangan foizsiz daromadlar (kontr-aktiv)
+(2-bob O‘zbekiston Respublikasi markaziy banki Boshqaruvining 2024-yil 4-yanvardagi 42/20-sonli qaroriga (ro‘yxat raqami 3336-2, 05.02.2024-y.) asosan 16498-pozitsiya bilan to‘ldirilgan — Qonunchilik ma’lumotlari milliy bazasi, 06.02.2024-y., 10/24/3336-2/0100-son)
+16499 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Olinishi lozim bo‘lgan hisoblangan foizsiz daromadlar (kontr-aktiv)
+16500 Asosiy vositalar
+16501 Yer
+16505 Tugallanmagan qurilishlar
+16509 Bankning imoratlari — Binolar va boshqa inshootlar
+16511 Yig‘ilgan eskirish summasi — Binolar va boshqa inshootlar (kontr-aktiv)
+16515 Obyektni ijaraga olish va uni takomillashtirish huquqi
+16519 Yig‘ilgan eskirish summasi — Obyektni ijaraga olish va uni takomillashtirish huquqi (kontr-aktiv)
+16529 Transport vositalari
+16531 Yig‘ilgan eskirish summasi — Transport vositalari (kontr-aktiv)
+16535 Mebel, moslama va jihozlar
+16539 Yig‘ilgan eskirish summasi — Mebel, moslama va boshqa jihozlar (kontr-aktiv)
+16541 To‘lov kartalari bilan hisob-kitoblarni amalga oshirish uskunalari
+16543 Yig‘ilgan eskirish summasi — To‘lov kartalari bilan hisob-kitoblarni amalga oshirish uskunalari (kontr-aktiv)
+16549 Boshqalarga operatsion ijara bo‘yicha berilgan asosiy vositalar
+16551 Yig‘ilgan eskirish summasi — Boshqalarga operatsion ijara bo‘yicha berilgan asosiy vositalar (kontr-aktiv)
+16561 Ombordagi asosiy vositalar
+16563 Yig‘ilgan eskirish summasi — Ombordagi asosiy vositalar (kontr-aktiv)
+16591 Boshqa asosiy vositalar
+16593 Yig‘ilgan eskirish summasi — Boshqa asosiy vositalar(kontr-aktiv)
+16600 Nomoddiy aktivlar
+16601 Nomoddiy aktivlar
+16605 Yig‘ilgan eskirish summasi — Nomoddiy aktivlar (kontr-aktiv)
+16609 O‘rnatish va yaratish jarayonidagi nomoddiy aktivlar
+16617 Gudvill
+16699 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — O‘rnatish va yaratish jarayonidagi nomoddiy aktivlar (kontr-aktiv)
+16700 Bankning boshqa xususiy mulklari
+16701 Kredit va lizing bo‘yicha garov hisobidan undirilgan mulk
+16703 Kredit va lizing bo‘yicha undirilgan tugatilayotgan bankrot korxonalar mulki
+16705 Bankning boshqa mulklari
+16707 Bo‘lib-bo‘lib to‘lash sharti bilan sotilgan bankning boshqa mulklari
+16709 Ko‘chmas mulkka qilingan investitsiya
+16713 Yig‘ilgan eskirish summasi — Ko‘chmas mulkka qilingan investitsiyaning (kontr-aktiv)
+16799 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Bankning boshqa xususiy mulklari (kontr-aktiv)
+16799 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Bankning boshqa xususiy mulklari (kontr-aktiv)
+16800 Muddati uzaytirilgan debitor qarzdorlik
+16803 Bo‘lib-bo‘lib to‘lash uchun sotilgan bankning aktivlari
+16899 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Muddati uzaytirilgan debitor qarzdorlik (kontr-aktiv)
+16900 Hosilaviy instrumentlarning revalvatsiyasi natijasida o‘zlashtirilmagan foyda
+16901 Revalvatsiya natijasida o‘zlashtirilmagan foyda — Forvard shartnomalari
+16905 Revalvatsiya natijasida o‘zlashtirilmagan foyda — Opsionlar
+16909 Revalvatsiya natijasida o‘zlashtirilmagan foyda — Fyucherslar
+16913 Revalvatsiya natijasida o‘zlashtirilmagan foyda — Svoplar
+16915 Revalvatsiya natijasida o‘zlashtirilmagan foyda — boshqa hosilaviy instrumentlar
+17100 Valyutalar savdosi va valyuta pozitsiyalari
+17101 Valyuta pozitsiyasi hisobvaraqlari
+17300 Tranzit hisobvaraqlari
+17301 Tranzit hisobvarag‘i
+17305 Aniqlanish jarayonidagi tranzaksiyalar
+17400 Mijozlarning bank kartalaridan hisobdan chiqarilishi lozim bo‘lgan mablag‘lar bo‘yicha tranzit hisobvaraqlari
+17401 Jismoniy shaxslarning bank kartalaridan olingan naqd pullar bo‘yicha hisobdan chiqarilishi lozim bo‘lgan pul mablag‘lari bo‘yicha tranzit hisobvaraqlar
+17403 Jismoniy shaxslarning bank kartalaridan boshqa bank kartalar yoki omonatlar hisobvaraqlariga hisobdan chiqarilishi lozim bo‘lgan mablag‘lari bo‘yicha tranzit hisobvaraqlari
+17405 Kommunal to‘lovlar bo‘yicha bank kartalaridan hisobdan chiqarilishi lozim bo‘lgan mablag‘lar bo‘yicha tranzit hisobvaraqlari
+17407 Pullik xizmatlar bo‘yicha bank kartalaridan hisobdan chiqarilishi lozim bo‘lgan mablag‘lar bo‘yicha tranzit hisobvaraqlari
+17409 Qonunchilik hujjatlarida nazarda tutilgan boshqa to‘lovlar bo‘yicha bank kartalaridan hisobdan chiqarilishi lozim bo‘lgan pul mablag‘lari bo‘yicha tranzit hisobvaraqlari
+Oldingi tahrirga qarang.
+17500 Hukumat hisobvaraqlari
+(17500-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+17515 Respublika budjeti — Maxsus xarajatlar
+Oldingi tahrirga qarang.
+17700 Standart deb tasniflangan aktivlar bo‘yicha zaxira (kontr-aktiv)
+17701 Standart deb tasniflangan kreditlar, lizing va faktoring bo‘yicha zaxira (kontr-aktiv)
+17703 Standart deb tasniflangan aktivlar bo‘yicha foizlar va vositachilik haqlariga yaratilgan zaxira (kontr-aktiv)
+17705 Standart deb tasniflangan boshqa aktivlar bo‘yicha yaratilgan zaxira (kontr-aktiv)
+(17700, 17701, 17703 va 17705-pozitsiyalar O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+19900 Boshqa aktivlar
+19901 Mayda xarajatlar
+19903 Inkasso qilingan pul tushumlari va cheklar
+19905 Qaytarilgan cheklar va boshqa to‘lov hujjatlari
+19907 Xizmatlar uchun oldindan to‘langan xarajatlar
+19908 Olinishi lozim bo‘lgan mablag‘lar — Bank xodimlari bilan hisob-kitoblar
+19909 Olinishi lozim bo‘lgan mablag‘lar — Tovar-moddiy qimmatliklar uchun
+19910 Bankning mas’ul xodimlariga berilgan korporativ bank kartalaridan hisob-kitoblar uchun pul mablag‘lari
+19911 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Olinishi lozim bo‘lgan mablag‘lar (kontr-aktiv)
+19921 Ombordagi kam baholi va tez eskiruvchi buyumlar hamda boshqa qimmatliklar
+19925 Oldindan to‘langan xarajatlar
+19929 Boshqa muddati uzaytirilgan xarajatlar
+19931 Muddati uzaytirilgan soliqlar
+19933 Muddati uzaytirilgan soliqlar bo‘yicha baholangan zaxira (kontr-aktiv)
+19934 Pul o‘tkazmalari bo‘yicha jismoniy shaxslar bilan hisob-kitoblar
+19935 Naqd pullarni qayta hisoblashda aniqlangan kamomad
+19939 Olinadigan dividendlar
+19941 Tugatilgan yoki tugatilish jarayonida bo‘lgan banklardagi mablag‘lar
+19945 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Tugatilgan yoki tugatilish jarayonida bo‘lgan banklardagi mablag‘lar (kontr-aktiv)
+19949 Muzlatilgan aktivlar
+Oldingi tahrirga qarang.
+19951 Olinishi lozim bo‘lgan mablag‘lar — O‘zbekiston Respublikasi Valyuta birjasi bilan hisob-kitoblar
+(19951-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+19995 Sud jarayonidagi boshqa aktivlar
+19997 Boshqa aktivlar
+19999 Ko‘rilishi mumkin bo‘lgan zararlarni qoplash zaxirasi — Boshqa aktivlar (kontr-aktiv)
+20000 MAJBURIYATLAR
+20200 Talab qilib olinguncha saqlanadigan depozitlar
+20202 Hukumatning budjetdan tashqari mablag‘lari bo‘yicha talab qilib olinguncha saqlanadigan depozitlari
+20203 Respublika budjetidan moliyalashtiriladigan budjet tashkilotlarining budjetdan tashqari mablag‘lari bo‘yicha talab qilib olinguncha saqlanadigan depozitlari
+20204 Mahalliy (tuman/shahar viloyat yoki Qoraqalpog‘iston Respublikasi) budjet hisobidan moliyalashtiriladigan budjet tashkilotlarining budjetdan tashqari mablag‘lari bo‘yicha talab qilib olinguncha saqlanadigan depozitlari
+20206 Jismoniy shaxslarning talab qilib olinguncha saqlanadigan depozitlari
+20208 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarning talab qilib olinguncha saqlanadigan depozitlari
+20210 Davlat korxonalari, tashkilotlari va muassasalarining talab qilib olinguncha saqlanadigan depozitlari
+20212 Nodavlat notijorat tashkilotlarning talab qilib olinguncha saqlanadigan depozitlari
+Oldingi tahrirga qarang.
+20214 Chet el investitsiyalari ishtirokidagi korxonalarning talab qilib olinguncha saqlanadigan depozitlari
+(20214-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+20216 Bank bo‘lmagan moliyaviy muassasalarning talab qilib olinguncha saqlanadigan depozitlari
+20218 Yakka tartibdagi tadbirkorlarning talab qilib olinguncha saqlanadigan depozitlari
+20296 Boshqa mijozlarning talab qilib olinguncha saqlanadigan depozitlari
+20400 Jamg‘arma depozitlar
+20402 Hukumatning budjetdan tashqari mablag‘lari bo‘yicha jamg‘arma depozitlari
+20403 Respublika budjetidan moliyalashtiriladigan budjet tashkilotlarining budjetdan tashqari mablag‘lari bo‘yicha jamg‘arma depozitlari
+20404 Mahalliy (tuman/shahar viloyat yoki Qoraqalpog‘iston Respublikasi) budjet hisobidan moliyalashtiriladigan budjet tashkilotlarining budjetdan tashqari mablag‘lari bo‘yicha jamg‘arma depozitlari
+Oldingi tahrirga qarang.
+(20405-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan o‘z kuchini yo‘qotgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+20406 Jismoniy shaxslarning jamg‘arma depozitlari
+20408 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarning jamg‘arma depozitlari
+20410 Davlat korxonalari, tashkilotlari va muassasalarining jamg‘arma depozitlari
+20412 Nodavlat notijorat tashkilotlarning jamg‘arma depozitlari
+Oldingi tahrirga qarang.
+20414 Chet el investitsiyalari ishtirokidagi korxonalarning jamg‘arma depozitlari
+(20414-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+20416 Bank bo‘lmagan moliyaviy muassasalarning jamg‘arma depozitlari
+20418 Yakka tartibdagi tadbirkorlarning jamg‘arma depozitlari
+20496 Boshqa mijozlarning jamg‘arma depozitlari
+20600 Muddatli depozitlar
+20602 Hukumatning budjetdan tashqari mablag‘lari bo‘yicha muddatli depozitlari
+20603 Respublika budjetidan moliyalashtiriladigan budjet tashkilotlarining budjetdan tashqari mablag‘lari bo‘yicha muddatli depozitlari
+20604 Mahalliy (tuman/shahar viloyat yoki Qoraqalpog‘iston Respublikasi) budjet hisobidan moliyalashtiriladigan budjet tashkilotlarining budjetdan tashqari mablag‘lari bo‘yicha muddatli depozitlari
+20605 Budjetdan tashqari fondlarning muddatli depozitlari
+20606 Jismoniy shaxslarning muddatli depozitlari
+20608 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarning muddatli depozitlari
+20610 Davlat korxonalari, tashkilotlari va muassasalarining muddatli depozitlari
+20612 Nodavlat notijorat tashkilotlarining muddatli depozitlari
+Oldingi tahrirga qarang.
+20614 Chet el investitsiyalari ishtirokidagi korxonalarning muddatli depozitlari
+(20614-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+20616 Bank bo‘lmagan moliyaviy muassasalarning muddatli depozitlari
+20618 Yakka tartibdagi tadbirkorlarning muddatli depozitlari
+20696 Boshqa mijozlarning muddatli depozitlari
+20800 Markaziy bankka to‘lanishi lozim bo‘lgan mablag‘lar
+20802 Markaziy bankning vakillik hisobvarag‘iga to‘lanishi lozim bo‘lgan mablag‘lar — Vostro
+20806 Markaziy bankdagi vakillik hisobvarag‘iga to‘lanishi lozim bo‘lgan mablag‘lar — Nostro, overdraft
+Oldingi tahrirga qarang.
+20814 Markaziy bankka to‘lanishi lozim bo‘lgan mablag‘lar — Tezkor to‘lovlar tizimi
+20816 Markaziy bankka to‘lanishi lozim bo‘lgan mablag‘lar — Markaziy bank kliring tizimi
+(20814 va 20816-pozitsiyalar O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+20896 Markaziy bankning to‘lanishi lozim bo‘lgan mablag‘lar — Depozitlar
+21000 Boshqa banklar va moliyaviy tashkilotlarga to‘lanishi lozim bo‘lgan mablag‘lar
+21002 Boshqa banklarning vakillik hisobvaraqlariga to‘lanishi lozim bo‘lgan mablag‘lar — Vostro
+21006 Bankning boshqa banklardagi vakillik hisobvaraqlariga to‘lanishi lozim bo‘lgan mablag‘lar — Nostro, overdraft
+21008 Boshqa banklarga to‘lanishi lozim bo‘lgan mablag‘lar — Naqd pullar
+21012 Jismoniy shaxslarning bank kartalaridan berilgan naqd pul mablag‘lari bo‘yicha boshqa banklarga to‘lanishi lozim bo‘lgan mablag‘lar
+21014 Bank kartalaridan amalga oshirilgan to‘lovlar bo‘yicha boshqa banklarga to‘lanishi lozim bo‘lgan mablag‘lar
+21022 Boshqa banklarga to‘lanishi lozim bo‘lgan mablag‘lar — Overnayt depozitlar
+21032 Boshqa banklarga to‘lanishi lozim bo‘lgan mablag‘lar — 1 yilgacha bo‘lgan depozitlar
+21042 Boshqa banklarga to‘lanishi lozim bo‘lgan mablag‘lar — 1 yildan ortiq muddatga depozitlar
+21052 Moliyaviy tashkilotlarga to‘lanishi lozim bo‘lgan mablag‘lar
+21400 Bankning to‘lanmagan akseptlari
+21402 To‘lanmagan akseptlar — Mahalliy
+21406 To‘lanmagan akseptlar — Xorijiy
+21600 To‘lanishi lozim bo‘lgan qisqa muddatli kreditlar
+21602 Markaziy bankka to‘lanishi lozim bo‘lgan qisqa muddatli kreditlar
+Oldingi tahrirga qarang.
+21604 O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi huzuridagi Jamg‘armalarga to‘lanishi lozim bo‘lgan qisqa muddatli kreditlar
+(21604-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+21605 Budjetdan tashqari jamg‘armalarga to‘lanishi lozim bo‘lgan qisqa muddatli kreditlar
+21606 Boshqa banklarga to‘lanishi lozim bo‘lgan qisqa muddatli kreditlar
+21610 Hukumatga to‘lanishi lozim bo‘lgan qisqa muddatli kreditlar
+21612 Aholining kam ta’minlangan qatlamlariga berilgan kreditlarni moliyalashtirish uchun Markaziy bankka to‘lanishi lozim bo‘lgan qisqa muddatli kreditlar
+21613 Davlat dasturlari bo‘yicha berilgan ipoteka kreditlarini moliyalashtirish uchun Markaziy bankka to‘lanishi lozim bo‘lgan qisqa muddatli kreditlar
+21624 Bank bo‘lmagan moliyaviy muassasalarga to‘lanishi lozim bo‘lgan qisqa muddatli kreditlar
+21696 Boshqa kreditorlarga to‘lanishi lozim bo‘lgan qisqa muddatli kreditlar
+22000 Olingan uzoq muddatli kreditlar
+22002 Markaziy bankdan olingan uzoq muddatli kreditlar
+Oldingi tahrirga qarang.
+22004 O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi huzuridagi Jamg‘armalarga to‘lanishi lozim bo‘lgan uzoq muddatli kreditlar
+(22004-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+22005 Budjetdan tashqari jamg‘armalarga to‘lanishi lozim bo‘lgan uzoq muddatli kreditlar
+22006 Boshqa banklarga to‘lanishi lozim bo‘lgan uzoq muddatli kreditlar
+22010 Hukumatga to‘lanishi lozim bo‘lgan uzoq muddatli kreditlar
+22012 Aholining kam ta’minlangan qatlamlariga berilgan kreditlarni moliyalashtirish uchun Markaziy bankka to‘lanishi lozim bo‘lgan uzoq muddatli kreditlar
+22013 Davlat dasturlari bo‘yicha berilgan ipoteka kreditlarini moliyalashtirish uchun Markaziy bankka to‘lanishi lozim bo‘lgan uzoq muddatli kreditlar
+22024 Bank bo‘lmagan moliyaviy muassasalarga to‘lanishi lozim bo‘lgan uzoq muddatli kreditlar
+22026 O‘zbekiston tiklanish va taraqqiyot jamg‘armasiga to‘lanishi lozim bo‘lgan uzoq muddatli kreditlar
+22096 Boshqa kreditorlarga to‘lanishi lozim bo‘lgan uzoq muddatli kreditlar
+22100 Lizing (moliyaviy ijara) bo‘yicha majburiyatlar
+22102 Boshqa banklar oldidagi lizing bo‘yicha majburiyatlar
+22104 Boshqa lizing beruvchilar oldidagi lizing bo‘yicha majburiyatlar
+22200 Bosh ofis /filiallarga to‘lanadigan mablag‘lar
+22202 Bosh ofis/filiallarga to‘lanadigan mablag‘lar — Naqd pullar
+22203 Bosh ofis/filiallarga to‘lanadigan mablag‘lar — Naqdsiz mablag‘lar
+22204 Bosh ofis/filiallarga filiallar va banklararo hisob-kitoblar bo‘yicha to‘lanadigan mablag‘lar
+22205 Bosh ofis/filiallarga to‘lanadigan mablag‘lar — Tovar-moddiy qimmatliklar va xizmatlar
+22206 Chet eldagi Bosh ofis/filiallarga to‘lanadigan mablag‘lar
+22208 Bosh ofis/filiallarga filiallar va banklararo hisob-kitoblar bo‘yicha to‘lanadigan mablag‘lar — Overdraft
+22210 Bosh ofis/filiallarga to‘lanadigan mablag‘lar — Float
+22212 Bosh ofis/filiallarga jismoniy shaxslarning bank kartalaridan berilgan naqd pul mablag‘lari bo‘yicha to‘lanadigan mablag‘lar
+22214 Bosh ofis/filiallarga bank kartalaridan amalga oshirilgan to‘lovlar bo‘yicha to‘lanadigan mablag‘lar
+22216 Bosh ofis/filiallarga to‘lanadigan mablag‘lar — Davlat dasturlari bo‘yicha resurslar
+22224 Bosh ofis/filiallarga Tezkor to‘lovlar tizimida hisob-kitoblar bo‘yicha to‘lanadigan mablag‘lar
+22226 Bosh ofis/filiallarga Markaziy bankning Kliring tizimi hisob-kitoblari bo‘yicha to‘lanadigan mablag‘lar
+22300 REPO bitimlari bo‘yicha sotilgan qimmatli qog‘ozlar
+22302 REPO bitimlari bo‘yicha Markaziy bankka sotilgan qimmatli qog‘ozlar
+22304 REPO bitimlari bo‘yicha boshqa banklarga sotilgan qimmatli qog‘ozlar
+22306 REPO bitimlari bo‘yicha hukumatga sotilgan qimmatli qog‘ozlar
+22308 REPO bitimlari bo‘yicha jismoniy shaxslarga sotilgan qimmatli qog‘ozlar
+22310 REPO bitimlari bo‘yicha yakka tartibdagi tadbirkorlarga sotilgan qimmatli qog‘ozlar
+Oldingi tahrirga qarang.
+22312 REPO bitimlari bo‘yicha chet el investitsiyalari ishtirokidagi korxonalarga sotilgan qimmatli qog‘ozlar
+(22312-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+22314 REPO bitimlari bo‘yicha davlat korxonalari, tashkilotlari va muassasalariga sotilgan qimmatli qog‘ozlar
+22316 REPO bitimlari bo‘yicha xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga sotilgan qimmatli qog‘ozlar
+22396 REPO bitimlari bo‘yicha boshqa kreditorlarga sotilgan qimmatli qog‘ozlar
+22400 To‘lanishi lozim bo‘lgan hisoblangan foizlar
+22402 Talab qilib olinguncha saqlanadigan depozitlar bo‘yicha to‘lanishi lozim bo‘lgan hisoblangan foizlar
+22403 Jamg‘arma depozitlar bo‘yicha to‘lanishi lozim bo‘lgan hisoblangan foizlar
+22405 Muddatli depozitlar bo‘yicha to‘lanishi lozim bo‘lgan hisoblangan foizlar
+22406 Markaziy bankka to‘lanishi lozim bo‘lgan hisoblangan foizlar
+22407 Boshqa banklarga to‘lanishi lozim bo‘lgan hisoblangan foizlar
+22408 To‘lanishi lozim bo‘lgan hisoblangan foizlar — Lizing (moliyaviy ijara)
+22409 Bosh bank/filialdan olingan resurslar bo‘yicha to‘lanishi lozim bo‘lgan hisoblangan foizlar
+22410 Olingan kreditlar bo‘yicha to‘lanishi lozim bo‘lgan hisoblangan foizlar
+22412 Boshqa majburiyatlar bo‘yicha to‘lanishi lozim bo‘lgan hisoblangan foizlar
+22414 Chiqarilgan qimmatli qog‘ozlar bo‘yicha to‘lanishi lozim bo‘lgan hisoblangan foizlar
+22476 Shartnomaga ko‘ra to‘lash uchun hisoblab yozilgan, biroq muddatida to‘lanmagan foizlar
+22500 Hisoblangan soliqlar
+22502 Hisoblangan daromad (foyda) soliqlari
+22504 Hisoblangan boshqa soliqlar
+22506 To‘lash uchun ushlab qolingan soliqlar
+22508 Muddati uzaytirilgan soliqlar
+22510 Pensiya jamg‘armasi bilan hisob-kitoblar
+22512 Bandlikka ko‘maklashish davlat jamg‘armasi va boshqa jamg‘armalar bilan hisob-kitoblar
+22512 Bandlikka ko‘maklashish davlat jamg‘armasi va boshqa jamg‘armalar bilan hisob-kitoblar
+22600 Mijozlarning boshqa depozitlari
+22602 Mijozlarning akkreditivlari bo‘yicha depozitlari
+22604 Mijozlarning boshqa depozitlari — Jamg‘arma — Maqsadli
+22606 Mijozlarning import bilan bog‘liq tratta va/yoki trast hujjatlari bilan kafolatlangan akkreditivlar bo‘yicha depozitlari
+22608 Mijozlarning qimmatli qog‘ozlar bilan bo‘ladigan operatsiyalar bo‘yicha mablag‘lari
+22612 “O‘zbekiston pochtasi” AJ tarkibiy bo‘linmalari tomonidan amalga oshiriladigan pul o‘tkazmalari va davriy nashrlarga obuna
+Oldingi tahrirga qarang.
+22613 Valyuta bozorida konvertatsiya qilish uchun mijozlarning zaxiralangan mablag‘lari
+(22613-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+22614 Mijozlarning valyuta bozorida konvertatsiya qilingan mablag‘lari
+22616 Jismoniy shaxslarning bank hisobvaraqlaridagi masofadan turib xizmat ko‘rsatish tizimi orqali boshqariladigan mablag‘lari
+22617 Pensionerlarning bank kartalari bo‘yicha majburiyatlar
+22618 Jismoniy shaxslarning bank kartalari bo‘yicha majburiyatlari
+22619 Yakka tartibdagi tadbirkorlarning bank kartalari bo‘yicha majburiyatlar
+22620 Korporativ bank kartalari bo‘yicha majburiyatlar
+22622 Yuridik shaxslar o‘z vakolatxonalari va filiallari ta’minoti uchun ajratgan mablag‘lar
+22626 Korxona va tashkilotlarning maqsadli mablag‘lari
+22628 Fuqarolarning shaxsiy jamg‘arma pensiya hisobvarag‘idagi mablag‘lari
+22630 Mahalliy budjetdan moliyalashtirilayotgan, fuqarolarning o‘zini o‘zi boshqarish organlari tomonidan tayinlangan ijtimoiy nafaqalar mablag‘lari
+22632 Pensiya jamg‘armasi tomonidan pensiyalar, ijtimoiy nafaqalar, kompensatsiyalar va boshqa to‘lovlar uchun moliyalashtiriladigan mablag‘lar
+22634 Tabiiy gaz uchun kelib tushadigan pul mablag‘larini jamlash uchun yagona maxsus hisobvaraq
+22636 Elektr energiyasi uchun kelib tushadigan pul mablag‘larini jamlash uchun yagona maxsus hisobvaraq.
+22638 Suv ta’minoti va suv chiqarish xizmati uchun kelib tushadigan pul mablag‘larini jamlash uchun yagona maxsus hisobvaraq
+22640 Elektron pullar bo‘yicha majburiyatlar
+22642 Ishonchli boshqaruvga qabul qilingan moliyaviy aktivlar bo‘yicha majburiyatlar
+22644 Mijozlarning metall hisobvaraqlari bo‘yicha majburiyatlar
+Oldingi tahrirga qarang.
+22646 Mijozlarning investitsiya mablag‘lari bo‘yicha majburiyatlar
+22648 Mijozlarning “yashil energiya” loyihalarini moliyalashtirish bo‘yicha mablag‘lari
+(22646, 22648-pozitsiyalar O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+22696 Mijozlarning boshqa depozitlari bo‘yicha majburiyatlari
+22800 Hosilaviy instrumentlarning revalvatsiyasi natijasida amalga oshmagan zararlar va boshqa muddati uzaytirilgan daromadlar
+22802 Revalvatsiya natijasida amalga oshmagan zararlar — Forvard shartnomalari
+22806 Revalvatsiya natijasida amalga oshmagan zararlar — Opsionlar
+22810 Revalvatsiya natijasida amalga oshmagan zararlar — Fyucherslar
+22811 Revalvatsiya natijasida amalga oshmagan zararlar — Svoplar
+22812 Kelgusi davr foizli daromadlari
+22815 Revalvatsiya natijasida amalga oshmagan zararlar — boshqa hosilaviy instrumentlar
+22896 Boshqa muddati uzaytirilgan daromadlar
+23100 Mijozlarning bank kartalariga o‘tkazilishi lozim bo‘lgan pul mablag‘lari bo‘yicha tranzit hisobvaraqlari
+23102 Yuridik shaxslarning korporativ bank kartalariga o‘tkazilishi lozim bo‘lgan pul mablag‘lari bo‘yicha tranzit hisobvaraqlari
+23104 Yakka tartibdagi tadbirkorlarning korporativ bank kartalariga o‘tkazilishi lozim bo‘lgan mablag‘lar bo‘yicha tranzit hisobvaraqlar
+23106 Ish haqi va unga tenglashtirilgan to‘lovlar, shuningdek pensiyalar, kompensatsiyalar va boshqa ijtimoiy to‘lovlar bo‘yicha xo‘jalik yurituvchi subyektlar xodimlarining bank kartalariga o‘tkazilishi lozim bo‘lgan mablag‘lar bo‘yicha tranzit hisobvaraqlari
+23108 Ish haqi va unga tenglashtirilgan to‘lovlar, shuningdek pensiyalar, kompensatsiyalar va boshqa ijtimoiy to‘lovlar bo‘yicha budjet tashkilotlari xodimlarining bank kartalariga o‘tkazilishi lozim bo‘lgan mablag‘lar bo‘yicha tranzit hisobvaraqlar
+Oldingi tahrirga qarang.
+23110 Ish haqi va unga tenglashtirilgan to‘lovlar, shuningdek pensiyalar, kompensatsiyalar va boshqa ijtimoiy to‘lovlar bo‘yicha Davlat xavfsizlik xizmati, Ichki ishlar vazirligi, Mudofaa vazirligi, Favqulodda vaziyatlar vazirligi va Iqtisodiyot va moliya vazirligi huzuridagi Bojxona qo‘mitasi xodimlari (kontingent)ning bank kartalariga o‘tkazilishi lozim bo‘lgan mablag‘lar bo‘yicha tranzit hisobvaraqlar
+(23110-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+23112 Pensionerlarning pensiyalari bo‘yicha jismoniy shaxslarning bank kartalariga o‘tkazilishi lozim bo‘lgan mablag‘lar bo‘yicha tranzit hisobvaraqlar
+(23112-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+23114 Ijtimoiy nafaqalar, kompensatsiyalar va boshqa to‘lovlar bo‘yicha jismoniy shaxslarning bank kartalariga o‘tkazilishi lozim bo‘lgan mablag‘lari bo‘yicha tranzit hisobvaraqlar
+23116 Naqd pullar bo‘yicha jismoniy shaxslarning bank kartalariga o‘tkazilishi lozim bo‘lgan mablag‘lari bo‘yicha tranzit hisobvaraqlar
+23118 Jismoniy shaxslarning depozit hisobvaraqlaridan jismoniy shaxslarning bank kartalariga o‘tkazilishi lozim bo‘lgan mablag‘lar bo‘yicha tranzit hisobvaraqlar
+23120 Jismoniy shaxslarning bank kartalariga naqd pulsiz o‘tkazilishi lozim bo‘lgan boshqa mablag‘lar bo‘yicha tranzit hisobvaraqlar
+23122 Xorijiy valyuta sotib olish uchun bank kassalariga naqd pullarni topshirgan jismoniy shaxsning bank kartalaridan foydalangan holda o‘tkazilishi lozim bo‘lgan mablag‘lar bo‘yicha tranzit hisobvaraqlar
+23200 Kliring tranzaksiyalari
+23202 Kliring tranzaksiyalari
+23206 Aniqlanish jarayonidagi tranzaksiyalar
+Oldingi tahrirga qarang.
+23208 O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi huzuridagi fondlar bilan bo‘ladigan kliring tranzaksiyalari
+(23208-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+23210 O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi huzuridagi fondlardan qishloq xo‘jaligi mahsulotlari uchun ajratilgan maqsadli mablag‘lar
+(23210-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+23212 O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi huzuridagi G‘aznachilik xizmati qo‘mitasi mablag‘lari
+(23212-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+23214 O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi huzuridagi G‘aznachilik xizmati qo‘mitasining hududiy bo‘linmalari mablag‘lari
+(23214-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+23222 O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi huzuridagi fondlarning maqsadli mablag‘lari
+(23222-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+23224 Xo‘jalik yurituvchi subyektlar o‘rtasidagi o‘zaro bir martalik hisob-kitoblar uchun budjet mablag‘lari
+23226 Respublika budjetining eksportchi-korxonalar bilan bo‘ladigan maqsadli hisob-kitoblar uchun mablag‘lari
+23230 Aktivlarni qoplash bo‘yicha kelib tushgan mablag‘lar
+23400 Hukumatga tegishli daromad va boshqa tushumlar hisobvaraqlari
+23402 Respublika budjetining mablag‘lari
+23404 Respublika budjetidan moliyalashtiriladigan budjet tashkilotlarining mablag‘lari
+23405 Nobudjet tashkilotlar va korxonalar uchun respublika budjetidan ajratilgan mablag‘lar
+23406 Hukumat kreditlari bo‘yicha foizli daromadlar
+23410 Hukumat subsidiyalari fondi
+23416 Maxsus maqsadlar fondi
+23422 Kapital qo‘yilmalarni respublika budjetidan moliyalashtirish
+23426 Mahalliy budjet mablag‘lari — Tuman/shahar
+23430 Mahalliy budjet mablag‘lari — Viloyat
+23432 Mahalliy budjet mablag‘lari — Qoraqalpog‘iston Respublikasi
+23500 Mijozlarning bank kartalaridan kelib tushgan tushum
+23502 Infokiosklar orqali bank kartalaridan kelib tushgan tushum
+23504 Bank kartalaridan berilgan naqd pullar yoki jismoniy shaxslarning depozit hisobvaraqlariga o‘tkazilgan mablag‘lar bo‘yicha tranzit hisobvaraqlar
+23506 Kommunal to‘lovlar bo‘yicha xo‘jalik yurituvchi subyektlarning hisobvaraqlariga o‘tkazilishi lozim bo‘lgan bank kartalaridan kelib tushgan tushum
+23508 Pulli xizmatlar bo‘yicha xo‘jalik yurituvchi subyektlarning hisobvaraqlariga o‘tkazilishi lozim bo‘lgan bank kartalaridan kelib tushgan tushum
+23510 Savdo tashkilotlarining hisobvaraqlariga o‘tkazilishi lozim bo‘lgan bank kartalaridan kelib tushgan tushum
+23514 Qonunchilik hujjatlarida nazarda tutilgan boshqa to‘lovlar bo‘yicha oluvchining hisobvaraqlariga o‘tkazilishi lozim bo‘lgan bank kartalaridan kelib tushgan pul mablag‘lari
+23516 Xorijiy valyuta sotib olish uchun jismoniy shaxslarning bank kartalaridan o‘tkazilgan pul mablag‘lari
+23520 QR-onlayn axborot tizimi orqali kelib tushgan tushumlar
+23600 Bank tomonidan chiqarilgan qimmatli qog‘ozlar
+23602 Chiqarilgan obligatsiyalar
+23604 Chiqarilgan jamg‘arma sertifikatlari
+23606 Chiqarilgan depozit sertifikatlari
+23608 Chiqarilgan veksellar
+23610 Chiqarilgan boshqa qimmatli qog‘ozlar
+23696 Chiqarilgan qimmatli qog‘ozlar bo‘yicha mukofot
+23698 Chiqarilgan qimmatli qog‘ozlar bo‘yicha diskont (kontr-passiv)
+23700 Subordinar qarz
+23702 Subordinar qarz
+23796 Subordinar qarz bo‘yicha mukofot
+23798 Subordinar qarz bo‘yicha diskont (kontr-passiv)
+29800 Boshqa majburiyatlar
+29801 Mijozlar bilan hisob-kitoblar
+29802 To‘lanishi lozim bo‘lgan mablag‘lar — Tovar-moddiy qimmatliklar va xizmatlar uchun
+29803 To‘lanishi lozim bo‘lgan mablag‘lar — Xodimlar bilan hisob-kitoblar
+29804 Boshqa bank mijozlarining inkasso qilingan pul tushumlari va cheklari
+29805 To‘lanishi lozim bo‘lgan mablag‘lar — Ijara to‘lovi (operatsion ijara)
+29806 To‘lash uchun hisoblangan boshqa foizsiz xarajatlar
+Oldingi tahrirga qarang.
+29807 Standart balansdan tashqari hisobvaraqlardagi moddalar bo‘yicha zaxira
+(29807-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+29808 Litsenziya uchun davlat boji va yig‘imlar bo‘yicha hisoblangan mablag‘lar
+29810 Bankning mas’ul xodimlariga berilgan korporativ bank kartalar bo‘yicha hisobdan chiqarilishi lozim bo‘lgan mablag‘lar
+29816 Naqd pullarni qayta hisoblashda aniqlangan ortiqchalar
+29822 To‘lanishi lozim bo‘lgan dividendlar
+29824 Naqd pul mablag‘lari bo‘yicha jismoniy shaxslarning maqsadli hisob-kitoblari
+29826 Aksiyalar uchun obuna mablag‘ini to‘lash — Xususiy kapitalni investitsiya qilish
+29830 Aksiyalar uchun obuna mablag‘ini to‘lash bo‘yicha depozitlar
+29834 Jismoniy shaxslarning pul o‘tkazmalari bo‘yicha majburiyatlar
+Oldingi tahrirga qarang.
+29840 O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligiga o‘tkaziladigan talab qilib olinmagan depozitlar
+(29840-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+29842 Harakatsiz depozit majburiyatlari
+29844 Boshqa banklarning mijozlari bilan naqd pulli hisob-kitoblar
+29846 Boshqa kreditlar — Talab qilib olinmagan qoldiqlar
+29848 Ijtimoiy nafaqalar to‘lovlari bo‘yicha jismoniy shaxslar bilan hisob-kitoblar
+29849 Pensiya jamg‘armasining tuman (shahar) bo‘linmalari tomonidan moliyalashtiriladigan, pensiyalar, ijtimoiy nafaqalar, kompensatsiyalar va boshqa to‘lovlar uchun boshqa banklardan olingan naqd pul bilan beriladigan mablag‘lar
+29896 Boshqa majburiyatlar
+30000 XUSUSIY KAPITAL
+30300 Ustav kapitali
+30303 Aksiyalar uchun obuna bo‘yicha olinishi lozim bo‘lgan mablag‘lar — Imtiyozli (kontr-passiv)
+30306 Aksiyalar uchun obuna bo‘yicha olinishi lozim bo‘lgan mablag‘lar — Oddiy (kontr-passiv)
+30309 Ro‘yxatdan o‘tkazilgan ustav kapitali — Imtiyozli
+30312 Ro‘yxatdan o‘tkazilgan ustav kapitali — Oddiy
+30315 Chiqarilgan ustav kapitali — Imtiyozli
+30318 Chiqarilgan ustav kapitali — Oddiy
+30321 Aksiyadorlardan qayta sotib olingan o‘z aksiyalari — Imtiyozli (kontr-passiv)
+30324 Aksiyadorlardan qayta sotib olingan o‘z aksiyalari — Oddiy (kontr-passiv)
+30600 Qo‘shilgan kapital
+30603 Qo‘shilgan kapital — Imtiyozli
+30606 Qo‘shilgan kapital — Oddiy
+30900 Zaxira kapitali
+30903 Umumiy zaxira fondi
+30905 Tekinga olingan mulklar
+30906 Devalvatsiya uchun zaxira
+30907 Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlarning haqqoniy qiymatining o‘zgarishi natijasida hosil bo‘lgan o‘zlashtirilmagan foyda yoki zararlar (aktiv-passiv)
+30908 Boshlang‘ich qiymatiga nisbatan baholash qiymatining oshgan summasi
+30909 Pul oqimlarini xedjirlash natijasida hosil bo‘lgan foyda yoki zarar
+30910 Respublika korxonalariga berilgan investitsion kreditlardan olingan foyda hisobidan xususiy kapitalni oshirishga mo‘ljallangan zaxira fondi
+Oldingi tahrirga qarang.
+(30911-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan o‘z kuchini yo‘qotgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+31200 Taqsimlanmagan foyda
+31203 Taqsimlanmagan foyda (aktiv-passiv)
+31206 Sof foyda (zarar) (aktiv-passiv)
+40000 DAROMADLAR
+40200 Markaziy bankdagi hisobvaraqlar bo‘yicha foizli daromadlar
+40201 Markaziy bankning vakillik hisobvarag‘i bo‘yicha foizli daromadlar — Vostro, overdraft
+40205 Markaziy bankdagi depozitlar bo‘yicha foizli daromadlar
+40400 Boshqa banklardagi hisobvaraqlar bo‘yicha foizli daromadlar
+40401 Boshqa banklardagi vakillik hisobvaraqlar bo‘yicha foizli daromadlar — Nostro
+40405 Boshqa banklarning vakillik hisobvaraqlari bo‘yicha foizli daromadlar — Vostro, overdraft
+40409 Boshqa banklardagi depozitlar bo‘yicha foizli daromadlar
+40600 Foyda yoki zarar orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlar bo‘yicha foizli daromadlar
+40601 Davlat xazina veksellari bo‘yicha foizli daromadlar
+40605 Davlat obligatsiyalari bo‘yicha foizli daromadlar
+40609 Markaziy bankning obligatsiyalari va boshqa qarz qimmatli qog‘ozlari bo‘yicha foizli daromadlar
+40613 Korxonalarning qarz qimmatli qog‘ozlari bo‘yicha foizli daromadlar
+40617 Yevroobligatsiyalar bo‘yicha foizli daromadlar
+40694 Boshqa qarz qimmatli qog‘ozlar bo‘yicha foizli daromadlar
+40700 Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlarga qilingan investitsiyalar bo‘yicha foizli daromadlar
+40701 Davlat xazina veksellari bo‘yicha foizli daromadlar
+40705 Davlat obligatsiyalari bo‘yicha foizli daromadlar
+40709 Markaziy bankning obligatsiyalari va boshqa qarz qimmatli qog‘ozlari bo‘yicha foizli daromadlar
+40713 Korxonalarning qarz qimmatli qog‘ozlari bo‘yicha foizli daromadlar
+40717 Yevroobligatsiyalar bo‘yicha foizli daromadlar
+40794 Boshqa qarz qimmatli qog‘ozlar bo‘yicha foizli daromadlar
+41000 Mijozlarning majburiyatlari bo‘yicha hisoblangan foizlar
+41001 Mijozlarning majburiyatlari bo‘yicha foizli daromadlar — Import bilan bog‘liq veksellar
+41003 Mijozlarning majburiyatlari bo‘yicha foizli daromadlar — Akkreditivlar
+41005 Mijozlarning majburiyatlari bo‘yicha foizli daromadlar — Trast hujjatlari asosidagi import bilan bog‘liq veksellar
+41009 Mijozlarning majburiyatlari bo‘yicha foizli daromadlar — Trast hujjatlari asosidagi mahalliy veksellar
+41013 Muddati o‘tgan import bilan bog‘liq veksellar va akseptlar bo‘yicha foizli daromadlar
+41017 Muddati o‘tgan mahalliy veksellar va akseptlar bo‘yicha foizli daromadlar
+41021 Sud jarayonidagi import bilan bog‘liq veksellar bo‘yicha foizli daromadlar
+41025 Sud jarayonidagi mahalliy veksellar bo‘yicha foizli daromadlar
+41200 Bankning to‘lanmagan akseptlari yuzasidan mijozlar majburiyatlari bo‘yicha foizli daromadlar
+41201 Mijozlarning akseptlar yuzasidan majburiyatlari bo‘yicha foizli daromadlar — Mahalliy
+41205 Mijozlarning akseptlar yuzasidan majburiyatlari bo‘yicha foizli daromadlar — Xorijiy
+41400 Markaziy bankka berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+41401 Markaziy bankka berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+41600 Boshqa banklarga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+41601 Boshqa banklarga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+41605 Boshqa banklarga berilgan muddati o‘tgan kreditlar bo‘yicha foizli daromadlar
+41609 Boshqa banklarga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+41800 Hukumatga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+41801 Hukumatga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+41805 Hukumatga berilgan muddati o‘tgan kreditlar bo‘yicha foizli daromadlar
+41809 Hukumatga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+41900 Budjet tashkilotlariga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+41901 Budjet tashkilotlariga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+41905 Budjet tashkilotlariga berilgan muddati o‘tgan kreditlar bo‘yicha foizli daromadlar
+41909 Budjet tashkilotlariga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42000 Jismoniy shaxslarga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42001 Jismoniy shaxslarga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42005 Jismoniy shaxslarga berilgan muddati o‘tgan kreditlar bo‘yicha foizli daromadlar
+42009 Jismoniy shaxslarga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42100 Yakka tartibdagi tadbirkorlarga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42101 Yakka tartibdagi tadbirkorlarga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42105 Yakka tartibdagi tadbirkorlarga berilgan muddati o‘tgan kreditlar bo‘yicha foizli daromadlar
+42109 Yakka tartibdagi tadbirkorlarga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42200 Davlat korxonalari, tashkilotlari va muassasalariga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42201 Davlat korxonalari, tashkilotlari va muassasalariga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42205 Davlat korxonalari, tashkilotlari va muassasalariga berilgan muddati o‘tgan kreditlar bo‘yicha foizli daromadlar
+42209 Davlat korxonalari, tashkilotlari va muassasalariga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42300 Nodavlat notijorat tashkilotlariga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42301 Nodavlat notijorat tashkilotlariga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42305 Nodavlat notijorat tashkilotlariga berilgan muddati o‘tgan kreditlar bo‘yicha foizli daromadlar
+42309 Nodavlat notijorat tashkilotlariga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+Oldingi tahrirga qarang.
+42400 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+(42400-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+42401 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+(42401-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+42405 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan muddati o‘tgan kreditlar bo‘yicha foizli daromadlar
+(42405-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+42409 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+(42409-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+42500 Bank bo‘lmagan moliyaviy muassasalarga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42501 Bank bo‘lmagan moliyaviy muassasalarga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42505 Bank bo‘lmagan moliyaviy muassasalarga berilgan muddati o‘tgan kreditlar bo‘yicha foizli daromadlar
+42509 Bank bo‘lmagan moliyaviy muassasalarga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42600 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42601 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+42605 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan muddati o‘tgan kreditlar bo‘yicha foizli daromadlar
+42609 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan shartlari qayta ko‘rib chiqilgan qisqa muddatli kreditlar bo‘yicha foizli daromadlar
+43100 Respublika korxonalariga berilgan uzoq muddatli investitsiya kreditlari bo‘yicha foizli daromadlar
+43101 Respublika korxonalariga berilgan uzoq muddatli investitsiya kreditlari bo‘yicha foizli daromadlar
+43105 Respublika korxonalariga berilgan muddati o‘tgan uzoq muddatli investitsiya kreditlari bo‘yicha foizli daromadlar
+43109 Respublika korxonalariga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli investitsiya kreditlari bo‘yicha foizli daromadlar
+43600 Budjet tashkilotlariga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+43601 Budjet tashkilotlariga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+43605 Budjet tashkilotlariga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+43700 Bank bo‘lmagan moliyaviy muassasalarga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+43701 Bank bo‘lmagan moliyaviy muassasalarga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+43705 Bank bo‘lmagan moliyaviy muassasalarga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+43900 Nodavlat notijorat tashkilotlariga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+43901 Nodavlat notijorat tashkilotlariga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+43905 Nodavlat notijorat tashkilotlariga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44000 Boshqa banklarga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44001 Boshqa banklarga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44005 Boshqa banklarga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44100 Yakka tartibdagi tadbirkorlarga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44101 Yakka tartibdagi tadbirkorlarga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44105 Yakka tartibdagi tadbirkorlarga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44200 Hukumatga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44201 Hukumatga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44205 Hukumatga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44300 Jismoniy shaxslarga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44301 Jismoniy shaxslarga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44305 Jismoniy shaxslarga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44400 Davlat korxonalari, tashkilotlari va muassasalariga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44401 Davlat korxonalari, tashkilotlari va muassasalariga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44405 Davlat korxonalari, tashkilotlari va muassasalariga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+Oldingi tahrirga qarang.
+44500 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+(44500-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+44501 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+(44501-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+44505 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan shartlari qayta ko‘rib chiqilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+(44505-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+44600 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44601 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan uzoq muddatli kreditlar bo‘yicha foizli daromadlar
+44605 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan uzoq muddatli, shartlari qayta ko‘rib chiqilgan kreditlar bo‘yicha foizli daromadlar
+44700 Sud yoki ijro ishi yuritish jarayonidagi kreditlar bo‘yicha foizli daromadlar
+44701 Sud yoki ijro ishi yuritish jarayonidagi kreditlar bo‘yicha foizli daromadlar
+44800 Amortizatsiyalangan qiymati bo‘yicha baholanadigan qarz qimmatli qog‘ozlarga qilingan investitsiyalar bo‘yicha foizli daromadlar
+44801 Davlat xazina veksellariga qilingan investitsiyalar bo‘yicha foizli daromadlar
+44805 Davlat obligatsiyalariga qilingan investitsiyalar bo‘yicha foizli daromadlar
+44809 Markaziy bankning obligatsiyalari va boshqa qarz qimmatli qog‘ozlariga qilingan investitsiyalar bo‘yicha foizli daromadlar
+44813 Korxonalarning qarz qimmatli qog‘ozlariga qilingan investitsiyalar bo‘yicha foizli daromadlar
+44817 Yevroobligatsiyalarga qilingan investitsiyalar bo‘yicha foizli daromadlar
+44894 Boshqa qarz qimmatli qog‘ozlarga qilingan investitsiyalar bo‘yicha foizli daromadlar
+44900 Boshqa foizli daromadlar
+44901 Boshqa foizli daromadlar
+44903 Jamg‘arib boriladigan pensiya tizimi mablag‘larini investitsiya qilishdan marja
+44905 Bosh bank/filialga taqdim etilgan resurslar bo‘yicha foizli daromadlar
+Oldingi tahrirga qarang.
+44907 Hosilaviy instrumentlar bo‘yicha foizli daromadlar
+(44907-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+45000 Qimmatli qog‘ozlar bilan amalga oshirilgan repo bitimlari bo‘yicha foizli daromadlar
+45001 Markaziy bankdan sotib olingan qimmatli qog‘ozlar bilan amalga oshirilgan REPO bitimlari bo‘yicha foizli daromadlar
+45003 Boshqa banklardan sotib olingan qimmatli qog‘ozlar bilan amalga oshirilgan REPO bitimlari bo‘yicha foizli daromadlar
+45005 Hukumatdan sotib olingan qimmatli qog‘ozlar bilan amalga oshirilgan REPO bitimlari bo‘yicha foizli daromadlar
+45007 Jismoniy shaxslardan sotib olingan qimmatli qog‘ozlar bilan amalga oshirilgan REPO bitimlari bo‘yicha foizli daromadlar
+45009 Yakka tartibdagi tadbirkorlardan sotib olingan qimmatli qog‘ozlar bilan amalga oshirilgan REPO bitimlari bo‘yicha foizli daromadlar
+45011 Davlat korxonalari, tashkilotlari va muassasalaridan sotib olingan qimmatli qog‘ozlar bilan amalga oshirilgan REPO bitimlari bo‘yicha foizli daromadlar
+Oldingi tahrirga qarang.
+45013 Chet el investitsiyalari ishtirokidagi korxonalardan sotib olingan qimmatli qog‘ozlar bilan amalga oshirilgan REPO bitimlari bo‘yicha foizli daromadlar
+(45013-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+45015 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlardan sotib olingan qimmatli qog‘ozlar bilan amalga oshirilgan REPO bitimlari bo‘yicha foizli daromadlar
+45094 Boshqa qarzdorlardan sotib olingan qimmatli qog‘ozlar bilan amalga oshirilgan REPO bitimlari bo‘yicha foizli daromadlar
+45100 Foizli daromadlar — lizing (moliyaviy ijara)
+45101 Boshqa banklarga berilgan lizing bo‘yicha foizli daromadlar
+45105 Yakka tartibdagi tadbirkorlarga berilgan lizing bo‘yicha foizli daromadlar
+45107 Davlat korxonalari, tashkilotlari va muassasalariga berilgan lizing bo‘yicha foizli daromadlar
+Oldingi tahrirga qarang.
+45109 Chet el investitsiyalari ishtirokidagi korxonalarga berilgan lizing bo‘yicha foizli daromadlar
+(45109-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+45111 Nodavlat notijorat tashkilotlariga berilgan lizing bo‘yicha foizli daromadlar
+45113 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga berilgan lizing bo‘yicha foizli daromadlar
+45115 Bank bo‘lmagan moliyaviy institutlarga berilgan lizing bo‘yicha foizli daromadlar
+45117 Muddati o‘tgan lizing bo‘yicha foizli daromadlar
+45119 Shartlari qayta ko‘rib chiqilgan lizing bo‘yicha foizli daromadlar
+45121 Sud yoki ijro ishi yuritish jarayonidagi lizing bo‘yicha foizli daromadlar
+45200 Foizsiz daromadlar
+45201 Ko‘rsatilgan xizmatlar va vositachilik uchun olingan daromadlar — Markaziy bank
+45205 Ko‘rsatilgan xizmatlar va vositachilik uchun olingan daromadlar — Boshqa banklar
+45209 Qimmatli qog‘ozlar bilan amalga oshirilgan investitsiyaviy vositachilik operatsiyalari bo‘yicha daromadlar
+45213 Bankning qimmatbaho metallar, toshlar va tangalar bilan amalga oshirgan operatsiyalari bo‘yicha daromadlari
+45217 Sotib olingan debitorlik qarzlari bo‘yicha daromadlar — Faktoring
+45221 Bankning trast operatsiyalari bo‘yicha daromadlari
+45225 Ko‘rsatilgan xizmatlar va vositachilik uchun olingan daromadlar — Akkreditivlar va akseptlar
+45229 Overdraft bo‘yicha ko‘rsatilgan xizmatlar uchun daromadlar
+45233 Kreditlar bo‘yicha vositachilik daromadlari
+45235 Lizing bo‘yicha vositachilik va komission daromadlar
+45237 Kredit majburiyatlari bo‘yicha ko‘rsatilgan xizmatlar uchun olingan daromadlar
+45241 Menejment xizmati bo‘yicha daromadlar
+45245 Sindikat kreditlarda qatnashganlik uchun olingan daromadlar
+45249 To‘lovlar bo‘yicha vositachilik xizmatlari uchun olingan daromadlar — Mahalliy
+45253 To‘lovlar bo‘yicha vositachilik xizmatlari uchun olingan daromadlar — Xorijiy
+45257 Mijozlarning inkasso operatsiyalari bo‘yicha ko‘rsatilgan xizmatlar uchun olingan daromadlar
+45261 Kafolatlar va kafilliklar bo‘yicha operatsiyalarni amalga oshirishda ko‘rsatilgan xizmatlar uchun olingan daromadlar
+45265 Bank kartalari bo‘yicha vositachilik xizmatlari uchun olingan daromadlar
+45294 Boshqa ko‘rsatilgan xizmatlar va vositachilik uchun olingan daromadlar
+45400 Xorijiy valyutalardagi foyda
+45401 “Spot” bitimi bo‘yicha xorijiy valyutalardagi foyda
+45403 Valyuta qoldiqlarini qayta baholashdan olingan foyda
+45405 Hosilaviy instrumentlar bilan tuzilgan bitimlari bo‘yicha xorijiy valyutalardagi foyda
+45600 Tijorat operatsiyalaridan olingan foyda
+45605 Qimmatbaho metallar, toshlar va tangalar bilan tijorat operatsiyalaridan foyda
+45609 Foyda yoki zarar orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlarining haqqoniy qiymatining o‘zgarishi natijasida olingan foyda
+45611 Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlari haqqoniy qiymatining o‘zgarishi natijasida olingan foyda
+45700 Qaram xo‘jalik jamiyatlariga, birgalikdagi korxonalarga va shu’ba xo‘jalik jamiyatlariga qilingan investitsiyadan olingan foyda va dividendlar
+45701 Qaram xo‘jalik jamiyatlariga qilingan investitsiyadan olingan foyda — Moliyaviy institutlar
+45705 Qaram xo‘jalik jamiyatlariga qilingan investitsiyadan olingan foyda — Boshqalar
+45709 Birgalikdagi korxonalarga qilingan investitsiyalardan olingan foyda — Moliyaviy institutlar
+45713 Birgalikdagi korxonalarga qilingan investitsiyadan olingan foyda — Boshqalar
+45717 Shu’ba xo‘jalik jamiyatlariga qilingan investitsiyadan olingan foyda va dividendlar — Moliyaviy institutlar
+45721 Shu’ba xo‘jalik jamiyatlariga qilingan investitsiyadan olingan foyda va dividendlar — Boshqalar
+45800 Investitsiyalardan olingan foyda va dividendlar
+45803 Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlarni sotish yoki dispozitsiya — qilishdan olingan foyda
+45805 Amortizatsiyalangan qiymati bo‘yicha baholanadigan qarz qimmatli qog‘ozlarini sotish yoki dispozitsiya qilishdan olingan foyda
+45809 Investitsiya qilingan xususiy kapital bo‘yicha olingan dividendlar
+45900 Boshqa foizsiz daromadlar
+45901 Bank asosiy vositalarining ijarasi bo‘yicha daromadlar
+45905 Bankning ko‘chmas mulkka qilingan investitsiyalari bo‘yicha daromadlar
+45909 Bank asosiy vositalarini sotish yoki dispozitsiya qilishdan foyda
+45913 Bankning boshqa xususiy mulklarini sotish yoki dispozitsiya qilishdan foyda
+45921 Hisobdan chiqarilgan mablag‘larning qaytarilishi
+Oldingi tahrirga qarang.
+45924 Hisobdan chiqarilgan aktivlarning qaytarilishi
+(45924-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+45994 Boshqa foizsiz daromadlar
+50000 XARAJATLAR
+50100 Talab qilib olinguncha saqlanadigan depozitlar bo‘yicha foizli xarajatlar
+50101 Hukumatning budjetdan tashqari mablag‘lari asosidagi talab qilib olinguncha saqlanadigan depozitlari bo‘yicha foizli xarajatlar
+50103 Respublika budjetidan moliyalashtiriladigan budjet tashkilotlarining budjetdan tashqari mablag‘lari asosidagi talab qilib olinguncha saqlanadigan depozitlari bo‘yicha foizli xarajatlar
+50104 Mahalliy (tuman/shahar viloyat yoki Qoraqalpog‘iston Respublikasi) budjet hisobidan moliyalashtiriladigan budjet tashkilotlarining budjetdan tashqari mablag‘lari asosidagi talab qilib olinguncha saqlanadigan depozitlari bo‘yicha foizli xarajatlar
+50106 Jismoniy shaxslarning talab qilib olinguncha saqlanadigan depozitlari bo‘yicha foizli xarajatlar
+50108 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarning talab qilib olinguncha saqlanadigan depozitlari bo‘yicha foizli xarajatlar
+50110 Jismoniy shaxslarning bank kartalaridagi pul mablag‘lari bo‘yicha foizli xarajatlar
+50111 Davlat korxonalari, tashkilotlari va muassasalarining talab qilib olinguncha saqlanadigan depozitlari bo‘yicha foizli xarajatlar
+Oldingi tahrirga qarang.
+50114 Chet el investitsiyalari ishtirokidagi korxonalarning talab qilib olinguncha saqlanadigan depozitlari bo‘yicha foizli xarajatlar
+(50114-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+50116 Nodavlat notijorat tashkilotlarining talab qilib olinguncha saqlanadigan depozitlari bo‘yicha foizli xarajatlar
+50118 Yakka tartibdagi tadbirkorlarning talab qilib olinguncha saqlanadigan depozitlari bo‘yicha foizli xarajatlar
+50121 Bank bo‘lmagan moliyaviy muassasalarning talab qilib olinguncha saqlanadigan depozitlari bo‘yicha foizli xarajatlar
+50126 Boshqa mijozlarning talab qilib olinguncha saqlanadigan depozitlari bo‘yicha foizli xarajatlar
+50600 Jamg‘arma depozitlar bo‘yicha foizli xarajatlar
+50601 Hukumatning budjetdan tashqari mablag‘lari asosidagi jamg‘arma depozitlari bo‘yicha foizli xarajatlar
+50603 Respublika budjetidan moliyalashtiriladigan budjet tashkilotlarining budjetdan tashqari mablag‘lari asosidagi jamg‘arma depozitlari bo‘yicha foizli xarajatlar
+50604 Mahalliy (tuman/shahar viloyat yoki Qoraqalpog‘iston Respublikasi) budjet hisobidan moliyalashtiriladigan budjet tashkilotlarining budjetdan tashqari mablag‘lari asosidagi jamg‘arma depozitlari bo‘yicha foizli xarajatlar
+50606 Jismoniy shaxslarning jamg‘arma depozitlari bo‘yicha foizli xarajatlar
+50608 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarning jamg‘arma depozitlari bo‘yicha foizli xarajatlar
+50611 Davlat korxonalari, tashkilotlari va muassasalarining jamg‘arma depozitlari bo‘yicha foizli xarajatlar
+Oldingi tahrirga qarang.
+50614 Chet el investitsiyalari ishtirokidagi korxonalarning jamg‘arma depozitlari bo‘yicha foizli xarajatlar
+(50614-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+50616 Nodavlat notijorat tashkilotlarining jamg‘arma depozitlari bo‘yicha foizli xarajatlar
+50618 Yakka tartibdagi tadbirkorlarning jamg‘arma depozitlari bo‘yicha foizli xarajatlar
+50621 Bank bo‘lmagan moliyaviy muassasalarning jamg‘arma depozitlari bo‘yicha foizli xarajatlar
+50626 Boshqa mijozlarning jamg‘arma depozitlari bo‘yicha foizli xarajatlar
+51100 Muddatli depozitlar bo‘yicha foizli xarajatlar
+51101 Hukumatning budjetdan tashqari mablag‘lari asosidagi muddatli depozitlari bo‘yicha foizli xarajatlar
+51103 Respublika budjetidan moliyalashtiriladigan budjet tashkilotlarining budjetdan tashqari mablag‘lari asosidagi muddatli depozitlari bo‘yicha foizli xarajatlar
+51104 Mahalliy (tuman/shahar viloyat yoki Qoraqalpog‘iston Respublikasi) budjet hisobidan moliyalashtiriladigan budjet tashkilotlarining budjetdan tashqari mablag‘lari asosidagi muddatli depozitlari bo‘yicha foizli xarajatlar
+51105 Budjetdan tashqari fondlarning muddatli depozitlari bo‘yicha foizli xarajatlar
+51106 Jismoniy shaxslarning muddatli depozitlari bo‘yicha foizli xarajatlar
+51108 Xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarning muddatli depozitlari bo‘yicha foizli xarajatlar
+51111 Davlat korxonalari, tashkilotlari va muassasalarining muddatli depozitlari bo‘yicha foizli xarajatlar
+Oldingi tahrirga qarang.
+51114 Chet el investitsiyalari ishtirokidagi korxonalarning muddatli depozitlari bo‘yicha foizli xarajatlar
+(51114-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+51116 Nodavlat notijorat tashkilotlarining muddatli depozitlari bo‘yicha foizli xarajatlar
+51118 Yakka tartibdagi tadbirkorlarning muddatli depozitlari bo‘yicha foizli xarajatlar
+51121 Bank bo‘lmagan moliyaviy muassasalarning muddatli depozitlari bo‘yicha foizli xarajatlar
+51126 Boshqa mijozlarning muddatli depozitlari bo‘yicha foizli xarajatlar
+51600 Markaziy bankning hisobvaraqlari bo‘yicha foizli xarajatlar
+51601 Markaziy bankning vakillik hisobvarag‘i bo‘yicha foizli xarajatlar — Vostro
+51606 Markaziy bankdagi vakillik hisobvarag‘i bo‘yicha foizli xarajatlar — Nostro, overdraft
+51611 Markaziy bankning depozitlari bo‘yicha foizli xarajatlar
+52100 Boshqa banklarning hisobvaraqlari bo‘yicha foizli xarajatlar
+52101 Boshqa banklarning vakillik hisobvaraqlari bo‘yicha foizli xarajatlar — Vostro
+52106 Boshqa banklardagi vakillik hisobvaraqlari bo‘yicha foizli xarajatlar — Nostro, overdraft
+52111 Boshqa banklarning depozitlari bo‘yicha foizli xarajatlar
+52600 Bankning to‘lanmagan akseptlari bo‘yicha foizli xarajatlar
+52601 To‘lanmagan akseptlar bo‘yicha foizli xarajatlar — Mahalliy
+52606 To‘lanmagan akseptlar bo‘yicha foizli xarajatlar — Xorijiy
+53100 To‘lanishi lozim bo‘lgan qisqa muddatli kreditlar bo‘yicha foizli xarajatlar
+53101 Markaziy bankdan olingan qisqa muddatli kreditlar bo‘yicha foizli xarajatlar
+53106 Boshqa banklardan olingan qisqa muddatli kreditlar bo‘yicha foizli xarajatlar
+53111 Hukumatdan olingan qisqa muddatli kreditlar bo‘yicha foizli xarajatlar
+53125 Budjetdan tashqari jamg‘armalardan olingan qisqa muddatli kreditlar bo‘yicha foizli xarajatlar
+53128 Bank bo‘lmagan moliyaviy muassasalardan olingan qisqa muddatli kreditlar bo‘yicha foizli xarajatlar
+53195 Boshqa kreditorlardan olingan qisqa muddatli kreditlar bo‘yicha foizli xarajatlar
+54100 To‘lanishi lozim bo‘lgan uzoq muddatli kreditlar bo‘yicha foizli xarajatlar
+54101 Markaziy bankdan olingan uzoq muddatli kreditlar bo‘yicha foizli xarajatlar
+54106 Boshqa banklardan olingan uzoq muddatli kreditlar bo‘yicha foizli xarajatlar
+54111 Hukumatdan olingan uzoq muddatli kreditlar bo‘yicha foizli xarajatlar
+54115 Investitsion kreditlar uchun olingan resurslar bo‘yicha foizli xarajatlar
+54125 Budjetdan tashqari jamg‘armalardan olingan uzoq muddatli kreditlar bo‘yicha foizli xarajatlar
+54128 Bank bo‘lmagan moliyaviy muassasalardan olingan uzoq muddatli kreditlar bo‘yicha foizli xarajatlar
+54195 Boshqa kreditorlardan olingan uzoq muddatli kreditlar bo‘yicha foizli xarajatlar
+54198 Boshqa banklardan olingan lizing bo‘yicha foizli xarajatlar
+54199 Boshqa lizing beruvchilardan olingan lizing bo‘yicha foizli xarajatlar
+54200 Chiqarilgan qimmatli qog‘ozlar bo‘yicha foizli xarajatlar
+54202 Chiqarilgan obligatsiyalar bo‘yicha foizli xarajatlar
+54204 Chiqarilgan jamg‘arma sertifikatlar bo‘yicha foizli xarajatlar
+54206 Chiqarilgan depozit sertifikatlar bo‘yicha foizli xarajatlar
+54208 Chiqarilgan veksellar bo‘yicha foizli xarajatlar
+54210 Chiqarilgan boshqa qimmatli qog‘ozlar bo‘yicha foizli xarajatlar
+54222 Subordinar qarz bo‘yicha foizli xarajatlar
+54300 Qimmatli qog‘ozlar bilan amalga oshirilgan REPO bitimlari bo‘yicha foizli xarajatlar
+54302 REPO bitimlari bo‘yicha Markaziy bankka sotilgan qimmatli qog‘ozlar bo‘yicha foizli xarajatlar
+54304 REPO bitimlari bo‘yicha boshqa banklarga sotilgan qimmatli qog‘ozlar bo‘yicha foizli xarajatlar
+54306 REPO bitimlari bo‘yicha hukumatga sotilgan qimmatli qog‘ozlar bo‘yicha foizli xarajatlar
+54308 REPO bitimlari bo‘yicha jismoniy shaxslarga sotilgan qimmatli qog‘ozlar bo‘yicha foizli xarajatlar
+54310 REPO bitimlari bo‘yicha yakka tartibdagi tadbirkorlarga sotilgan qimmatli qog‘ozlar bo‘yicha foizli xarajatlar
+Oldingi tahrirga qarang.
+54312 REPO bitimlari bo‘yicha chet el investitsiyalari ishtirokidagi korxonalarga sotilgan qimmatli qog‘ozlar bo‘yicha foizli xarajatlar
+(54312-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+54314 REPO bitimlari bo‘yicha davlat korxonalari, tashkilotlari va muassasalariga sotilgan qimmatli qog‘ozlar bo‘yicha foizli xarajatlar
+54316 REPO bitimlari bo‘yicha xususiy korxonalar, xo‘jalik shirkatlari va jamiyatlarga sotilgan qimmatli qog‘ozlar bo‘yicha foizli xarajatlar
+54395 REPO bitimlari bo‘yicha boshqa kreditorlarga sotilgan qimmatli qog‘ozlar bo‘yicha foizli xarajatlar
+54900 Boshqa foizli xarajatlar
+54902 Boshqa foizli xarajatlar
+54904 Bosh bank/filialdan olingan resurslar bo‘yicha foizli xarajatlar
+Oldingi tahrirga qarang.
+54908 Hosilaviy instrumentlar bo‘yicha foizli xarajatlar
+(54908-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+55100 Foizsiz xarajatlar
+55102 Markaziy bankka to‘lanadigan xizmat va vositachilik xarajatlari
+55106 Boshqa banklarga to‘lanadigan xizmat va vositachilik xarajatlari
+55110 Vositachilik xarajatlari va xizmatlar uchun xarajatlar — Qimmatli qog‘ozlar
+55114 Vositachilik xarajatlari va xizmatlar uchun xarajatlar — Qimmatbaho metallar, toshlar va tangalarning oldi-sotdi hisobvaraqlari
+55122 Vositachilik xarajatlari va xizmatlar uchun xarajatlar — Sotib olingan veksellar
+55126 Vositachilik xarajatlari va xizmatlar uchun xarajatlar — Akkreditivlar va akseptlar
+55130 Overdraft bo‘yicha xarajatlar
+55134 Kreditlar bo‘yicha vositachilik xarajatlari
+55138 Kredit majburiyatlari bo‘yicha xarajatlari
+55142 Menejment bo‘yicha xarajatlar
+55146 Sindikat kreditlarda qatnashish bilan bog‘liq xarajatlar
+55150 Vositachilik xarajatlari — Mahalliy
+55154 Vositachilik xarajatlari — Xorijiy
+55158 Inkasso operatsiyalarini amalga oshirish bo‘yicha va vositachilik xarajatlari
+55162 Kafolat va kafillik operatsiyalari bo‘yicha va vositachilik xarajatlari
+55195 Boshqa vositachilik va xizmat xarajatlari
+55300 Xorijiy valyutalarda ko‘rilgan zararlar
+55302 “Spot” bitimlari bo‘yicha xorijiy valyutalarda ko‘rilgan zararlar
+55304 Valyuta qoldiqlarini qayta baholashdan ko‘rilgan zararlar
+55306 Hosilaviy instrumentlar bilan tuzilgan bitimlar bo‘yicha xorijiy valyutalarda ko‘rilgan zararlar
+55600 Tijorat operatsiyalaridan ko‘rilgan zararlar
+55606 Qimmatbaho metallar, toshlar va tangalar bo‘yicha tijorat operatsiyalaridan ko‘rilgan zararlar
+55610 Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlarning haqiqiy qiymatining o‘zgarishi natijasida ko‘rilgan zararlar
+55614 Foyda yoki zarar orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlari haqiqiy qiymatining o‘zgarishi natijasida ko‘rilgan zararlar
+55700 Qaram xo‘jalik jamiyatlariga, birgalikdagi korxonalarga va shu’ba xo‘jalik jamiyatlariga qilingan investitsiyadan ko‘rilgan zararlar
+55702 Qaram xo‘jalik jamiyatlariga qilingan investitsiyalardan ko‘rilgan zararlar — Moliyaviy institutlar
+55706 Qaram xo‘jalik jamiyatlariga qilingan investitsiyalardan ko‘rilgan zararlar — Boshqalar
+55710 Birgalikdagi korxonalarga qilingan investitsiyalardan ko‘rilgan zararlar — Moliyaviy institutlar
+55714 Birgalikdagi korxonalarga qilingan investitsiyalardan ko‘rilgan zararlar Boshqalar
+55718 Shu’ba xo‘jalik jamiyatlariga qilingan investitsiyalardan ko‘rilgan zararlar — Moliyaviy institutlar
+55722 Shu’ba xo‘jalik jamiyatlariga qilingan investitsiyalardan ko‘rilgan zararlar — Boshqalar
+55800 Investitsiyalardan ko‘rilgan zararlar
+55804 Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlarni sotish yoki dispozitsiya qilishdan ko‘rilgan zararlar
+55806 Amortizatsiyalangan qiymati bo‘yicha baholanadigan qimmatli qog‘ozlarni sotish yoki dispozitsiya qilishdan ko‘rilgan zararlar
+55900 Boshqa foizsiz xarajatlar
+55902 Bank asosiy vositalarini sotish yoki dispozitsiya qilishdan ko‘rilgan zararlar
+55906 Bankning boshqa xususiy mulklarini sotish yoki dispozitsiya qilishdan ko‘rilgan zararlar
+55995 Boshqa foizsiz xarajatlar
+56100 Bank xizmatchilarining ish haqi va ular uchun qilingan boshqa xarajatlar
+56102 Ish haqi
+56106 Bank xizmatchilari uchun imtiyozlar
+56108 Asosiy rahbar xodimlarga mukofotlar
+56110 Tibbiy, stomatologik xizmatlar uchun va shifoxonada davolash xarajatlari
+56114 Ijtimoiy sug‘urta bo‘yicha badallar
+56118 Ijtimoiy himoya
+56122 Bandlikka ko‘maklashish davlat jamg‘armasi va boshqa jamg‘armalarga badallar
+56195 Bank xizmatchilari uchun qilingan boshqa xarajatlar
+56200 Ijara va ta’minot
+56202 Ijara to‘lovi
+56206 Suv
+56210 Elektr energiyasi va isitish
+56214 Ta’mirlash va ta’minot
+56218 Qo‘riqlash xizmati
+56300 Xizmat safari va transport xarajatlari
+56302 Xizmat safari xarajatlari
+56306 Yashash xarajatlar
+56310 Fraxt xarajatlar
+56314 Yoqilg‘i
+56400 Ma’muriy xarajatlar
+56402 Reklama va e’lon xarajatlari
+56406 Devonxona, ofis va boshqa buyumlar xarajatlari
+56410 Pochta, telefon, faks
+56414 Hujjat markalari uchun xarajatlar
+56418 Kitob, gazeta va boshqa davriy nashriyotlar bo‘yicha xarajatlar
+56500 Reprezentatsiya va xayriya
+56502 Reprezentatsiya va ko‘ngil ochuvchi tadbirlar
+56506 A’zolik badallari
+56510 Xayr-ehson va xayriya
+56600 Eskirish xarajatlari
+56602 Eskirish — Bank binosi, inshootlar va boshqa imoratlar
+56606 Eskirish — Investitsiya qilingan ko‘chmas mulkning eskirish summasi
+56610 Eskirish — Transport vositalari
+56614 Eskirish — Mebel va jihozlar
+56616 Eskirish — To‘lov kartalari bilan hisob-kitoblarni amalga oshirish uskunalari
+56618 Eskirish — Nomoddiy aktivlar
+56622 Eskirish — Operatsion ijaraga berilgan asosiy vositalar
+56626 Eskirish — Obyektlarni ijaraga olish va uni takomillashtirish huquqi
+56630 Eskirish — Ombordagi asosiy vositalar
+56700 Sug‘urta, soliq va boshqa xarajatlar
+56702 Yuridik va auditorlik xizmati to‘lovlari
+56706 Konsalting xizmati uchun to‘lovlar
+56710 Sug‘urta
+56714 Soliqlar (foyda solig‘idan tashqari) va litsenziyalar
+56718 Jarima va penyalar
+56722 Sud jarayoni/aktivlarni sotib olish bilan bog‘liq bo‘lgan xarajatlar
+56795 Boshqa operatsion xarajatlar
+56800 Ko‘rilishi mumkin bo‘lgan zararlarni baholash
+56802 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Kreditlar
+56803 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Investitsion kreditlar
+56804 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Boshqa banklardan olinadigan hisobvaraqlar
+56806 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Foyda yoki zarar orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlar
+56808 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Boshqa umumlashgan daromad orqali haqqoniy qiymatda baholanadigan qimmatli qog‘ozlarga qilingan investitsiyalar
+56810 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Oldi-sotdiga mo‘ljallangan qimmatbaho metallar, toshlar va tangalar
+56814 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Sotib olingan debitorlik qarzlari — Faktoring
+56818 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Sotib olingan veksellar
+56822 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Import bilan bog‘liq va mahalliy veksellar
+56824 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — REPO bitimlari
+56826 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Amortizatsiyalangan qiymati bo‘yicha baholanadigan qimmatli qog‘ozlarga qilingan investitsiyalar
+56828 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Qaram xo‘jalik jamiyatlariga, birgalikdagi korxonalarga va shu’ba xo‘jalik jamiyatlariga qilingan investitsiyalar
+56830 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Asosiy vositalar
+56832 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Nomoddiy aktivlar
+56834 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Bankning boshqa xususiy mulklari
+56838 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Lizing (moliyaviy ijara)
+Oldingi tahrirga qarang.
+56839 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — olinishi lozim bo‘lgan hisoblangan foizlar
+(56839-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+56840 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — olinishi lozim bo‘lgan hisoblangan foizsiz daromadlar
+56842 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Sud yoki ijro ishi yuritish jarayonidagi kredit va lizing
+56895 Ko‘rilishi mumkin bo‘lgan zararlarni baholash — Boshqa aktivlar
+56900 Foyda solig‘ini baholash
+56902 Foyda solig‘ini baholash
+Oldingi tahrirga qarang.
+57700 Standart deb tasniflangan aktivlar va balansdan tashqari hisobvaraqlardagi moddalar bo‘yicha zaxira xarajatlari
+57701 Standart deb tasniflangan kreditlar, lizing va faktoring bo‘yicha zaxira xarajatlari
+57703 Standart deb tasniflangan aktivlar bo‘yicha foizlar va vositachilik haqlariga zaxira xarajatlari
+57705 Standart deb tasniflangan boshqa aktivlar bo‘yicha zaxira xarajatlari
+57707 Standart deb tasniflangan balansdan tashqari hisobvaraqlardagi moddalar bo‘yicha zaxira xarajatlari
+(57700, 57701, 57703, 57705 va 57707-pozitsiyalar O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+90000 BALANSDAN TAShQARI HISOBVARAQLAR
+90100 To‘lovga yaroqsiz va ekspertizaga qabul qilingan banknot va tangalar
+90141 Ekspertizaga qabul qilingan banknotlar, tangalar va boshqa boyliklar
+90143 Ekspertizaga qabul qilingan yo‘ldagi banknotlar, tangalar va boshqa boyliklar
+90145 To‘lovga yaroqsiz banknot va tangalar
+90147 Yo‘ldagi to‘lovga yaroqsiz banknot va tangalar
+90300 Hujjatli qimmatli qog‘ozlar blankalari va hujjatsiz qimmatli qog‘ozlar
+90303 Davlatning qimmatli qog‘ozlari blankalari
+90305 Markaziy bankning qimmatli qog‘ozlari blankalari
+90317 Boshqa tashkilot va muassasalarning qimmatli qog‘ozlari blankalari
+90327 Bankning qimmatli qog‘ozlari blankalari
+90329 Bankning hujjatsiz qimmatli qog‘ozlari
+90337 Bankning sotib olingan qimmatli qog‘ozlari
+90400 Bankning bank kartalari, terminallari, bankomatlari va infokiosklari
+90402 Bank tomonidan muomalaga chiqarilgan jismoniy shaxslarning bank kartalari
+90404 Bank tomonidan muomalaga chiqarilgan yuridik shaxslarning korporativ bank kartalari
+90406 Bank tomonidan muomalaga chiqarilgan yakka tartibdagi tadbirkorlarning korporativ bank kartalari
+90410 Bank tomonidan o‘rnatilgan terminallar
+90412 Bank tomonidan o‘rnatilgan bankomatlar
+90414 Bank tomonidan o‘rnatilgan infokiosklar
+90900 Savdoga oid moliyalashlar
+90908 To‘lovchi tomonidan banklarda ochilgan qoplangan akkreditiv
+90909 Taqdim etuvchiga trattalarni to‘lagan holdagi import bilan bog‘liq to‘lanmagan akkreditivlar
+90916 Muddatli trattalarga qarshi qo‘yilgan import bilan bog‘liq to‘lanmagan akkreditivlar
+90923 Muddati uzaytirilgan akkreditivlar — Xorijiy
+90930 Muddati uzaytirilgan akkreditivlar — Mahalliy
+90937 Revolver akkreditivlar — Xorijiy
+90944 Zaxira akkreditivlar — Xorijiy
+90951 Zaxira akkreditivlar — Mahalliy
+90955 Tasdiqlangan import bilan bog‘liq akkreditivlar
+90958 Tasdiqlangan eksport bilan bog‘liq akkreditivlar
+90960 Xabar qilingan import bilan bog‘liq akkreditivlar
+90961 Xabar qilingan eksport bilan bog‘liq akkreditivlar
+90962 To‘lov muddatini kutayotgan hisob-kitob hujjatlari
+90963 Muddatida to‘lanmagan hisob-kitob hujjatlari
+90965 Inkassoga qabul qilingan (ichki) veksellar — Mahalliy
+90966 Sotib olingan debitorlik qarzlari — Faktoring
+90969 Barter shartnomalari
+90971 Eksport shartnomalari
+90972 Inkassoga qabul qilingan (ichki) veksellar — Xorijiy
+90979 Inkassoga jo‘natilgan (tashqi) veksellar — Mahalliy
+90986 Inkassoga jo‘natilgan veksellar — Xorijiy
+90993 Kafolat va kafilliklar
+91500 Aktivlar bo‘yicha foizlar va vositachilik haqlari
+91501 Berilgan kreditlar va lizinglar bo‘yicha hisoblangan foizlar
+91503 Berilgan kreditlar va lizinglar bo‘yicha muddati uzaytirilgan foizlar
+Oldingi tahrirga qarang.
+91505 Kreditlar, lizing, kafillik va bank kafolati bo‘yicha foizlar va vositachilik haqlari
+(91505-pozitsiya O‘zbekiston Respublikasi markaziy banki Boshqaruvining 2024-yil 4-yanvardagi 42/20-sonli qarori (ro‘yxat raqami 3336-2, 05.02.2024-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 06.02.2024-y., 10/24/3336-2/0100-son)
+Oldingi tahrirga qarang.
+91507 Boshqa aktivlar bo‘yicha foizlar va vositachilik haqlari
+(2-bob O‘zbekiston Respublikasi markaziy banki Boshqaruvining 2024-yil 4-yanvardagi 42/20-sonli qaroriga (ro‘yxat raqami 3336-2, 05.02.2024-y.) asosan 91507-pozitsiya bilan to‘ldirilgan — Qonunchilik ma’lumotlari milliy bazasi, 06.02.2024-y., 10/24/3336-2/0100-son)
+91800 Bankning kredit va lizing majburiyati
+91809 Bankning kredit va lizing berish majburiyati
+91816 Bankning kredit va lizing olish majburiyatlari
+91900 Qarzdorlarning kredit va lizing majburiyatlari
+91901 Qarzdorlarning qisqa muddatli kreditlar bo‘yicha majburiyatlari
+91905 Qarzdorlarning uzoq muddatli kreditlar va lizinglar bo‘yicha majburiyatlari
+91907 Qarzdorlarning Hukumatdan olingan uzoq muddatli kreditlar va lizinglar bo‘yicha majburiyatlari
+92500 Chet el valyutalari bilan Spot operatsiyalari
+92501 Chet el valyutasini “Spot” bitimi bo‘yicha sotish
+92503 Chet el valyutasini “Spot” bitimi bo‘yicha sotib olish
+92700 Hosilaviy instrumentlar bo‘yicha tranzaksiyalar
+92701 Fyuchers bitimi bo‘yicha sotish
+92705 Fyuchers bitimi bo‘yicha sotib olish
+92709 Forvard bitimi bo‘yicha sotish
+Oldingi tahrirga qarang.
+92710 Hisob-kitobli forvard bitimi bo‘yicha sotish
+(92710-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+92716 Forvard bitimi bo‘yicha sotib olish
+Oldingi tahrirga qarang.
+92717 Hisob-kitobli forvard bitimi bo‘yicha sotib olish
+(92717-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+92724 Opsion bitimi bo‘yicha sotish
+92728 Opsion bitimi bo‘yicha sotib olish
+92732 Svop shartlarida sotish
+92736 Svop shartlarida sotib olish
+92800 Qimmatli qog‘ozlar bo‘yicha muddatli bitimlar
+92802 Qimmatli qog‘ozlarni sotib olish bo‘yicha muddatli bitimlar
+92806 Qimmatli qog‘ozlarni sotish bo‘yicha muddatli bitimlar
+93600 Saqlanayotgan qimmatli qog‘ozlar va boshqa qimmatbaho buyumlar
+93609 Saqlanayotgan qimmatbaho buyumlar
+93616 Davlatning shartli tarzda saqlanayotgan qimmatli qog‘ozlari
+93623 Shartli tarzda saqlanayotgan xususiy qimmatli qog‘ozlar/tijorat hujjatlari
+93630 Depozitar yacheykalar
+94500 Garov sifatidagi qimmatli qog‘ozlar, mulklar va mulkiy huquq(talab)lar
+94501 Garov sifatida olingan qimmatli qog‘ozlar
+94502 Garov sifatida olingan mulklar va mulkiy huquq(talab)lar
+94503 Garov sifatida olingan kafolat va kafilliklar
+94504 Olingan kreditlar va lizinglar bo‘yicha garov sifatida berilgan qimmatli qog‘ozlar
+Oldingi tahrirga qarang.
+94505 Olingan kreditlar bo‘yicha bankning garovga qo‘yilgan aktivlari
+(94505-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+Oldingi tahrirga qarang.
+94511 Boshqa aktivlar bo‘yicha garov sifatida olingan qimmatli qog‘ozlar
+94512 Boshqa aktivlar bo‘yicha garov sifatida olingan mulklar va mulkiy huquq(talab)lar
+94513 Boshqa aktivlar bo‘yicha garov sifatida olingan kafolat va kafilliklar
+(2-bob O‘zbekiston Respublikasi markaziy banki Boshqaruvining 2024-yil 4-yanvardagi 42/20-sonli qaroriga (ro‘yxat raqami 3336-2, 05.02.2024-y.) asosan 94511, 94512 va 94513-pozitsiyalar bilan to‘ldirilgan — Qonunchilik ma’lumotlari milliy bazasi, 06.02.2024-y., 10/24/3336-2/0100-son)
+95400 Boshqa balansdan tashqari hisobvaraqlar
+95409 Qarzdorga bildirilgan da’volar bo‘yicha olinadigan mablag‘lar
+95411 Olinishi lozim bo‘lgan qimmatli qog‘ozlar bo‘yicha hisoblangan foizlar
+Oldingi tahrirga qarang.
+95413 Hisobdan chiqarilgan kreditlar, lizinglar va faktoringlar
+(95413-pozitsiyasi O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qarori (ro‘yxat raqami 3336-1, 20.04.2023-y.) tahririda — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+95415 Hisobdan chiqarilgan boshqa aktivlar
+95497 Boshqa balansdan tashqari hisobvaraqlar
+96300 Balansdan tashqari hisobvaraqlar bo‘yicha kontr-hisobvaraqlari
+96303 Banknotlar, tangalar va boshqa boyliklar harakati bo‘yicha kontr-hisobvaraq
+96305 Davlatning qimmatli qog‘ozlari blankalari bo‘yicha kontr-hisobvaraq
+96307 Markaziy bankning qimmatli qog‘ozlari blankalari bo‘yicha kontr-hisobvaraq
+96308 Qoplangan akkreditiv bo‘yicha kontr-hisobvaraq
+96309 Import bilan bog‘liq akkreditiv bo‘yicha kontr-hisobvaraq
+96311 Bank tomonidan muomalaga chiqarilgan bank kartalar bo‘yicha kontr-hisobvaraq
+96313 Bank tomonidan o‘rnatilgan terminallar, bankomatlar va infokiosklar bo‘yicha kontr-hisobvaraq
+96314 Bankning qimmatli qog‘ozlari bo‘yicha kontr-hisobvaraq
+96315 Boshqa tashkilot va muassasalarning qimmatli qog‘ozlari blankalari bo‘yicha kontr-hisobvaraq
+96316 Eksport bilan bog‘liq akkreditiv bo‘yicha kontr-hisobvaraq
+96317 Barter shartnomalari bo‘yicha kontr-hisobvaraq
+96318 Eksport shartnomalari bo‘yicha kontr-hisobvaraq
+96319 To‘lov muddatini kutayotgan hisob-kitob hujjatlari bo‘yicha kontr-hisobvaraq
+96321 Muddatida to‘lanmagan hisob-kitob hujjatlari bo‘yicha kontr-hisobvaraq
+96323 Inkassoga qabul qilingan (ichki) veksellar bo‘yicha kontr-hisobvaraq
+96330 Inkassoga jo‘natilgan (tashqi) veksellar bo‘yicha kontr-hisobvaraq
+96331 Sotib olingan debitorlik qarzlari — Faktoring bo‘yicha kontr-hisobvaraq
+96333 Olinishi lozim bo‘lgan qimmatli qog‘ozlar bo‘yicha hisoblangan foizlar kontr-hisobvarag‘i
+96335 Aktivlar bo‘yicha foizlar va vositachilik haqlari kontr-hisobvarag‘i
+96337 Kafolat va kafilliklar bo‘yicha kontr-hisobvaraq
+96345 Qarzdorlarning qisqa muddatli kreditlar bo‘yicha majburiyatlari kontr-hisobvarag‘i
+96349 Qarzdorlarning uzoq muddatli kreditlar va lizinglar bo‘yicha majburiyatlari kontr-hisobvarag‘i
+96351 Bankning kredit va lizing berish majburiyati bo‘yicha kontr-hisobvaraq
+96358 Bankning kredit va lizing olish majburiyati bo‘yicha kontr-hisobvaraq
+96359 “Spot” bitimi bo‘yicha sotish kontr-hisobvarag‘i
+96360 “Spot” bitimi bo‘yicha sotib olish kontr-hisobvarag‘i
+96361 Fyuchers bitimi bo‘yicha sotish kontr-hisobvarag‘i
+96363 Fyuchers bitimi bo‘yicha sotib olish kontr-hisobvarag‘i
+96365 Forvard bitimi bo‘yicha sotish kontr-hisobvarag‘i
+Oldingi tahrirga qarang.
+96366 Hisob-kitobli forvard bitimi bo‘yicha sotish kontr-hisobvarag‘i
+(96366-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+96367 Forvard bitimi bo‘yicha sotib olish kontr-hisobvarag‘i
+Oldingi tahrirga qarang.
+96368 Hisob-kitobli forvard bitimi bo‘yicha sotib olish kontr-hisobvarag‘i
+(96368-pozitsiya O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 7-martdagi 4/6-sonli qaroriga (ro‘yxat raqami 3336-1, 20.04.2023-y.) asosan kiritilgan — Qonunchilik ma’lumotlari milliy bazasi, 25.04.2023-y., 10/23/3336-1/0225-son)
+96369 Opsion bitimi bo‘yicha sotish kontr-hisobvarag‘i
+96370 Opsion bitimi bo‘yicha sotib olish kontr-hisobvarag‘i
+96371 Svop shartlari bilan sotish kontr-hisobvarag‘i
+96373 Svop shartlari bilan sotib olish kontr-hisobvarag‘i
+96374 Qimmatli qog‘ozlarni sotib olish bo‘yicha muddatli bitimlar kontr-hisobvarag‘i
+96376 Qimmatli qog‘ozlarni sotish bo‘yicha muddatli bitimlar kontr-hisobvarag‘i
+96379 Saqlanayotgan qimmatli qog‘ozlar va boshqa qimmatbaho buyumlar bo‘yicha kontr-hisobvaraq
+96381 Garov sifatidagi qimmatli qog‘ozlar, mulklar va mulkiy huquq(talab)lar bo‘yicha kontr-hisobvaraq
+96397 Boshqa balansdan tashqari hisobvaraqlar bo‘yicha kontr-hisobvaraq
